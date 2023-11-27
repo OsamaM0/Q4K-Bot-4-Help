@@ -19,6 +19,7 @@ def write_csv(file_path, data, fieldnames):
     Write data to a CSV file. 
     Data should be a list of dictionaries, and fieldnames is a list specifying the order of columns.
     """
+    data = [{key: str(value) for key, value in row.items()} for row in data]
     with open(file_path, mode='w', newline='') as file:
         csv_writer = csv.DictWriter(file, fieldnames=fieldnames)
         csv_writer.writeheader()
@@ -34,6 +35,19 @@ def add_row_to_csv(file_path, new_row):
     data.append(new_row)
     write_csv(file_path, data, fieldnames)
 
+def edit_row_in_csv(csv_file, file_id_column, target_file_id, new_values):
+    # Read the CSV file into a Pandas DataFrame
+    df = pd.read_csv(csv_file)
+    # Find the index of the row with the target 'File ID'
+    row_index = df.index[df[file_id_column] == target_file_id].tolist()[0]
+    # Update the values in the identified row
+    for col, value in new_values.items():
+        try:
+            df.at[row_index, col] = value
+        except Exception as e:
+            pass
+    # Save the modified DataFrame back to the CSV file
+    df.to_csv(csv_file, index=False)
 
 def get_csv_fieldnames(file_path):
     """
@@ -64,8 +78,19 @@ def remove_row_from_csv(file_path, name_column, row_name):
         return (f"Message Not Found.")
     
 
+def get_row_from_csv(csv_file, file_id_column, target_file_id):
+    
+    # Read the CSV file into a Pandas DataFrame
+    df = pd.read_csv(csv_file)
+    # Filter the DataFrame based on the target File ID
+    selected_row = df[df[file_id_column] == target_file_id]
+    if len(selected_row) == 0: 
+        return None
+    # Convert the selected row to a dictionary
+    result_dict = selected_row.to_dict(orient='records')[0]
+    return result_dict 
 
-def retrieve_data_advanced(file_path, condition, columne=None, similarity_threshold=100):
+def retrieve_data_advanced(file_path, condition, columne=None, similarity_threshold=90):
     """
     Reads a CSV file and retrieves rows based on complex conditions using '&' (AND), '|' (OR), and '-' (EXCEPT) operations.
 
@@ -83,7 +108,7 @@ def retrieve_data_advanced(file_path, condition, columne=None, similarity_thresh
     """
 
     # Read CSV file into a DataFrame and retrieve all data except file data
-    df = pd.read_csv(file_path) if (columne is None) else pd.read_csv(file_path)[columne]
+    df = pd.read_csv(file_path).astype(str) if (columne is None) else pd.read_csv(file_path)[columne]
 
     # Parse the condition string
     # Split by '&' (AND), '|' (OR), and '-' (EXCEPT) without including spaces
@@ -96,36 +121,43 @@ def retrieve_data_advanced(file_path, condition, columne=None, similarity_thresh
 
     # Define a function for fuzzy matching
     def fuzzy_match(keyword, row):
-        for value in dict(row).values(): 
-            if len(str(value)) > 1 :
-                if similarity_threshold == 100:
-                    if keyword.lower() == str(value).lower():
-                        return True
-                else:
-                    if (fuzz.partial_ratio(keyword.lower(), str(value).lower()) >= similarity_threshold):
-                        print(str(value).lower())
-                        return True
+        for value in dict(row).values():           
+            if similarity_threshold == 100:
+                if keyword.lower() == str(value).lower():
+                   
+                    return True
+            else:
+                if (fuzz.ratio(keyword.lower(), str(value).lower()) >= similarity_threshold):
+                    return True
         return False
 
     # Apply fuzzy matching for the first keyword
     filter_mask = df.apply(lambda row: fuzzy_match(search_keywords[0], row), axis=1)
-    print(filter_mask)
-
+    
     for i in range(len(operations)):
-        # Apply the corresponding operation based on the condition
-        if '&' == operations[i]:
-            filter_mask = filter_mask & df[filter_mask].apply(lambda row: fuzzy_match(search_keywords[i + 1], row), axis=1)
-        elif '|' == operations[i]:
-            filter_mask = filter_mask | df.apply(lambda row: fuzzy_match(search_keywords[i + 1], row), axis=1)
-        elif '-' == operations[i]:
-            filter_mask = filter_mask & ~df[filter_mask].apply(lambda row: fuzzy_match(search_keywords[i + 1], row), axis=1)
-        else:
-            raise ValueError("Invalid condition. Please use '&' for AND, '|' for OR, or '-' for EXCEPT.")
+        # Prevent use of fuzzy matching for symboles
+        try:
+            if len(str(search_keywords[i + 1])) > 1 :
+                    # Apply the corresponding operation based on the condition
+                    if '&' == operations[i]:
+                        filter_mask = filter_mask & df[filter_mask].apply(lambda row: fuzzy_match(search_keywords[i + 1], row), axis=1)
+                    elif '|' == operations[i]:
+                        filter_mask =  filter_mask | df.apply(lambda row: fuzzy_match(search_keywords[i + 1], row), axis=1)
+                    elif '-' == operations[i]:
+                        filter_mask = filter_mask & ~df[filter_mask].apply(lambda row: fuzzy_match(search_keywords[i + 1], row), axis=1)
+                    else:
+                        raise ValueError("Invalid condition. Please use '&' for AND, '|' for OR, or '-' for EXCEPT.")
+        except Exception as e:
+            pass
+
 
 
     # Apply the mask to get the filtered data
-    filtered_rows = df[filter_mask]
+    filtered_rows = df[filter_mask].fillna('')
 
     return filtered_rows
+
+
+
 
 

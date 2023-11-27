@@ -11,7 +11,7 @@ class ChatData:
   """Custom class for chat_data. Here we store data per message."""
 
   def __init__(self) -> None:
-      self.clicks_per_message = defaultdict()
+      self.cache_data_per_user = defaultdict()
       self.user_current_state : DefaultDict[int, str] = defaultdict(str)
 
 
@@ -28,7 +28,7 @@ class CustomContext(CallbackContext[ExtBot, dict, ChatData, dict]):
       user_id: Optional[int] = None,
   ):
     super().__init__(application=application, chat_id=chat_id, user_id=user_id)
-    self._message_id: Optional[str] = user_id
+    self._user_id: Optional[str] = user_id
 
 
   @property
@@ -38,42 +38,42 @@ class CustomContext(CallbackContext[ExtBot, dict, ChatData, dict]):
 
   ############################ UPDATE USER CASH DATA ########################
   @property
-  def message_clicks(self,) -> Optional[str]:
+  def user_cache_data(self,) -> Optional[str]:
     """Access the number of clicks for the message this context object was built for."""
-    if self._message_id:
-      return self.chat_data.clicks_per_message[self._message_id]
+    if self._user_id:
+      return self.chat_data.cache_data_per_user[self._user_id]
     return None
 
-  @message_clicks.setter
-  def message_clicks(self, key:str, value: str) -> None:
+  @user_cache_data.setter
+  def user_cache_data(self, key:str, value: str) -> None:
     """Allow to change the count"""
-    if not self._message_id:
+    if not self._user_id:
       raise RuntimeError(
           "There is no message associated with this context object.")
-    self.chat_data.clicks_per_message[self._message_id][key] = value
+    self.chat_data.cache_data_per_user[self._user_id][key] = value
 
   def reset_mssage_clicks(self, default_keys) -> None:
     """
     Reset all values oef keys for the associated message to None.
     """
-    if not self._message_id:
+    if not self._user_id:
         raise RuntimeError("There is no message associated with this context object.")
 
     # Reset all values to None
-    self.chat_data.clicks_per_message[self._message_id] = {key: None for key in default_keys}
+    self.chat_data.cache_data_per_user[self._user_id] = {key: None for key in default_keys}
 
   ############################ UPDATE USER CURRENT STATE ########################
 
   @property
   def current_state(self) -> Optional[str]:
       """Access the number of clicks for the message this context object was built for."""
-      if self._message_id:
-          return self.chat_data.user_current_state[self._message_id]
+      if self._user_id:
+          return self.chat_data.user_current_state[self._user_id]
       return None
 
   @current_state.setter
   def current_state(self, value: str) -> None:
       """Allow to change the count"""
-      if not self._message_id:
+      if not self._user_id:
           raise RuntimeError("There is no message associated with this context object.")
-      self.chat_data.user_current_state[self._message_id] = value
+      self.chat_data.user_current_state[self._user_id] = value

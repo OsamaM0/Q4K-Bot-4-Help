@@ -1,0 +1,1023 @@
+2023-11-27 00:08:37,795 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.196.34:8080
+2023-11-27 00:08:37,795 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-27 00:08:37,959 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 00:08:37] "[33mOPTIONS * HTTP/1.1[0m" 404 -
+2023-11-27 00:08:37,963 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 00:08:37] "GET / HTTP/1.1" 200 -
+2023-11-27 00:08:38,897 - telegram.ext.Application - INFO - Application started
+2023-11-27 00:08:38,900 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 00:08:38] "GET / HTTP/1.1" 200 -
+2023-11-27 00:08:39,356 - __main__ - INFO - Start command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 00:08:39,559 - __main__ - INFO - Search command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 00:08:42,989 - __main__ - INFO - Search_Manual command requested by Bot 4 Help (Q4K).
+2023-11-27 00:09:43,201 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 00:09:43] "HEAD / HTTP/1.1" 200 -
+2023-11-27 00:14:43,217 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 00:14:43] "HEAD / HTTP/1.1" 200 -
+2023-11-27 00:15:16,694 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2023-11-27 00:15:16,694 - telegram.ext.Application - INFO - Application.stop() complete
+2023-11-27 00:16:14,831 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.196.34:8080
+2023-11-27 00:16:14,831 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-27 00:16:16,104 - telegram.ext.Application - INFO - Application started
+2023-11-27 00:16:16,917 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 00:16:16] "[33mOPTIONS * HTTP/1.1[0m" 404 -
+2023-11-27 00:16:16,998 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 00:16:16] "GET / HTTP/1.1" 200 -
+2023-11-27 00:16:17,403 - __main__ - INFO - Search command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 00:16:21,838 - __main__ - INFO - Search_Manual command requested by Bot 4 Help (Q4K).
+2023-11-27 00:16:39,505 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2023-11-27 00:16:39,505 - telegram.ext.Application - INFO - Application.stop() complete
+2023-11-27 00:17:06,003 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.196.34:8080
+2023-11-27 00:17:06,004 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-27 00:17:07,300 - telegram.ext.Application - INFO - Application started
+2023-11-27 00:17:08,889 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 00:17:08] "[33mOPTIONS * HTTP/1.1[0m" 404 -
+2023-11-27 00:17:08,897 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 00:17:08] "GET / HTTP/1.1" 200 -
+2023-11-27 00:17:31,172 - __main__ - INFO - Search command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 00:17:33,158 - __main__ - INFO - Search_Manual command requested by Bot 4 Help (Q4K).
+2023-11-27 00:19:13,199 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2023-11-27 00:19:13,200 - telegram.ext.Application - INFO - Application.stop() complete
+2023-11-27 00:19:25,796 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.196.34:8080
+2023-11-27 00:19:25,798 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-27 00:19:25,904 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 00:19:25] "[33mOPTIONS * HTTP/1.1[0m" 404 -
+2023-11-27 00:19:25,909 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 00:19:25] "GET / HTTP/1.1" 200 -
+2023-11-27 00:19:26,717 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 00:19:26] "GET / HTTP/1.1" 200 -
+2023-11-27 00:19:27,008 - telegram.ext.Application - INFO - Application started
+2023-11-27 00:19:34,599 - __main__ - INFO - Search command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 00:19:39,795 - __main__ - INFO - Search_Manual command requested by Bot 4 Help (Q4K).
+2023-11-27 00:19:43,327 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 00:19:43] "HEAD / HTTP/1.1" 200 -
+2023-11-27 00:20:06,660 - __main__ - INFO - Start command requested by MSA.
+2023-11-27 00:20:24,897 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2023-11-27 00:20:24,898 - telegram.ext.Application - INFO - Application.stop() complete
+2023-11-27 00:25:13,206 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.196.34:8080
+2023-11-27 00:25:13,207 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-27 00:25:14,895 - telegram.ext.Application - INFO - Application started
+2023-11-27 00:25:15,408 - __main__ - INFO - GPACalc command requested by MSA.
+2023-11-27 00:25:28,494 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2023-11-27 00:25:28,495 - telegram.ext.Application - INFO - Application.stop() complete
+2023-11-27 00:25:44,001 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.196.34:8080
+2023-11-27 00:25:44,002 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-27 00:25:45,894 - telegram.ext.Application - INFO - Application started
+2023-11-27 00:25:46,012 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 00:25:46] "[33mOPTIONS * HTTP/1.1[0m" 404 -
+2023-11-27 00:25:46,091 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 00:25:46] "GET / HTTP/1.1" 200 -
+2023-11-27 00:25:46,406 - __main__ - INFO - Search command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 00:25:48,395 - __main__ - INFO - Search_Manual command requested by Bot 4 Help (Q4K).
+2023-11-27 00:27:19,385 - __main__ - INFO - Start command requested by محمود.
+2023-11-27 00:27:22,727 - __main__ - INFO - Search command requested by Bot 4 Help (Q4K).
+2023-11-27 00:27:26,116 - __main__ - INFO - Search_Auto command requested by Bot 4 Help (Q4K).
+2023-11-27 00:27:26,126 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/home/runner/Q4K-Help-Bot/.pythonlibs/lib/python3.10/site-packages/telegram/ext/_application.py", line 1173, in process_update
+    await coroutine
+  File "/home/runner/Q4K-Help-Bot/.pythonlibs/lib/python3.10/site-packages/telegram/ext/_basehandler.py", line 141, in handle_update
+    return await self.callback(update, context)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 349, in button_click
+    await search_automatic(update, context)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 719, in search_automatic
+    end_page = await keyboard_button_control(update, context, keyboards)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 809, in keyboard_button_control
+    await dict_to_keyboard(update, context, next(iter(keyboards)) , keyboards)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 1053, in dict_to_keyboard
+    value_num = len(retrieve_data_advanced("Files/Shared_File_data.csv",value + "&"+"&".join(d) ,None, 100))
+  File "/home/runner/Q4K-Help-Bot/csv_operations.py", line 139, in retrieve_data_advanced
+    if len(str(search_keywords[i + 1])) > 1 :
+IndexError: list index out of range
+2023-11-27 00:27:31,608 - __main__ - INFO - Search_Manual command requested by Bot 4 Help (Q4K).
+2023-11-27 00:27:35,571 - __main__ - INFO - Search_Auto command requested by Bot 4 Help (Q4K).
+2023-11-27 00:27:35,579 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/home/runner/Q4K-Help-Bot/.pythonlibs/lib/python3.10/site-packages/telegram/ext/_application.py", line 1173, in process_update
+    await coroutine
+  File "/home/runner/Q4K-Help-Bot/.pythonlibs/lib/python3.10/site-packages/telegram/ext/_basehandler.py", line 141, in handle_update
+    return await self.callback(update, context)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 349, in button_click
+    await search_automatic(update, context)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 719, in search_automatic
+    end_page = await keyboard_button_control(update, context, keyboards)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 809, in keyboard_button_control
+    await dict_to_keyboard(update, context, next(iter(keyboards)) , keyboards)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 1053, in dict_to_keyboard
+    value_num = len(retrieve_data_advanced("Files/Shared_File_data.csv",value + "&"+"&".join(d) ,None, 100))
+  File "/home/runner/Q4K-Help-Bot/csv_operations.py", line 139, in retrieve_data_advanced
+    if len(str(search_keywords[i + 1])) > 1 :
+IndexError: list index out of range
+2023-11-27 00:28:09,424 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2023-11-27 00:28:09,426 - telegram.ext.Application - INFO - Application.stop() complete
+2023-11-27 00:28:19,603 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.196.34:8080
+2023-11-27 00:28:19,603 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-27 00:28:20,641 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 00:28:20] "[33mOPTIONS * HTTP/1.1[0m" 404 -
+2023-11-27 00:28:20,724 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 00:28:20] "GET / HTTP/1.1" 200 -
+2023-11-27 00:28:20,804 - telegram.ext.Application - INFO - Application started
+2023-11-27 00:28:21,302 - __main__ - INFO - Start command requested by محمود.
+2023-11-27 00:28:21,503 - __main__ - INFO - Start command requested by محمود.
+2023-11-27 00:28:21,708 - __main__ - INFO - Share command requested by محمود.
+2023-11-27 00:28:25,403 - __main__ - INFO - Share_Auto command requested by Bot 4 Help (Q4K).
+2023-11-27 00:28:25,412 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/home/runner/Q4K-Help-Bot/.pythonlibs/lib/python3.10/site-packages/telegram/ext/_application.py", line 1173, in process_update
+    await coroutine
+  File "/home/runner/Q4K-Help-Bot/.pythonlibs/lib/python3.10/site-packages/telegram/ext/_basehandler.py", line 141, in handle_update
+    return await self.callback(update, context)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 368, in button_click
+    await share_automatic(update, context)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 684, in share_automatic
+    end_page = await keyboard_button_control(update, context, keyboards)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 809, in keyboard_button_control
+    await dict_to_keyboard(update, context, next(iter(keyboards)) , keyboards)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 1053, in dict_to_keyboard
+    value_num = len(retrieve_data_advanced("Files/Shared_File_data.csv",value + "&"+"&".join(d) ,None, 100))
+  File "/home/runner/Q4K-Help-Bot/csv_operations.py", line 139, in retrieve_data_advanced
+    if len(str(search_keywords[i + 1])) > 1 :
+IndexError: list index out of range
+2023-11-27 00:28:36,903 - __main__ - INFO - Search command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 00:28:38,816 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/home/runner/Q4K-Help-Bot/.pythonlibs/lib/python3.10/site-packages/telegram/ext/_application.py", line 1173, in process_update
+    await coroutine
+  File "/home/runner/Q4K-Help-Bot/.pythonlibs/lib/python3.10/site-packages/telegram/ext/_basehandler.py", line 141, in handle_update
+    return await self.callback(update, context)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 471, in attachHandelr
+    await modify_caption_and_send(update, context)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 927, in modify_caption_and_send
+    context.user_cache_data["Lecture"] = "\n".join(lectures)
+TypeError: can only join an iterable
+2023-11-27 00:28:39,087 - __main__ - INFO - Search_Manual command requested by Bot 4 Help (Q4K).
+2023-11-27 00:28:45,821 - __main__ - INFO - Search command requested by محمود.
+2023-11-27 00:28:48,520 - __main__ - INFO - Search_Auto command requested by Bot 4 Help (Q4K).
+2023-11-27 00:28:48,533 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/home/runner/Q4K-Help-Bot/.pythonlibs/lib/python3.10/site-packages/telegram/ext/_application.py", line 1173, in process_update
+    await coroutine
+  File "/home/runner/Q4K-Help-Bot/.pythonlibs/lib/python3.10/site-packages/telegram/ext/_basehandler.py", line 141, in handle_update
+    return await self.callback(update, context)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 349, in button_click
+    await search_automatic(update, context)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 719, in search_automatic
+    end_page = await keyboard_button_control(update, context, keyboards)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 809, in keyboard_button_control
+    await dict_to_keyboard(update, context, next(iter(keyboards)) , keyboards)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 1053, in dict_to_keyboard
+    value_num = len(retrieve_data_advanced("Files/Shared_File_data.csv",value + "&"+"&".join(d) ,None, 100))
+  File "/home/runner/Q4K-Help-Bot/csv_operations.py", line 139, in retrieve_data_advanced
+    if len(str(search_keywords[i + 1])) > 1 :
+IndexError: list index out of range
+2023-11-27 00:29:07,646 - __main__ - INFO - Start command requested by ㅤㅤㅤㅤㅤㅤ.
+2023-11-27 00:29:10,027 - __main__ - INFO - Search command requested by Bot 4 Help (Q4K).
+2023-11-27 00:29:12,003 - __main__ - INFO - Search_Auto command requested by Bot 4 Help (Q4K).
+2023-11-27 00:29:12,017 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/home/runner/Q4K-Help-Bot/.pythonlibs/lib/python3.10/site-packages/telegram/ext/_application.py", line 1173, in process_update
+    await coroutine
+  File "/home/runner/Q4K-Help-Bot/.pythonlibs/lib/python3.10/site-packages/telegram/ext/_basehandler.py", line 141, in handle_update
+    return await self.callback(update, context)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 349, in button_click
+    await search_automatic(update, context)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 719, in search_automatic
+    end_page = await keyboard_button_control(update, context, keyboards)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 809, in keyboard_button_control
+    await dict_to_keyboard(update, context, next(iter(keyboards)) , keyboards)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 1053, in dict_to_keyboard
+    value_num = len(retrieve_data_advanced("Files/Shared_File_data.csv",value + "&"+"&".join(d) ,None, 100))
+  File "/home/runner/Q4K-Help-Bot/csv_operations.py", line 139, in retrieve_data_advanced
+    if len(str(search_keywords[i + 1])) > 1 :
+IndexError: list index out of range
+2023-11-27 00:29:24,687 - __main__ - INFO - Start command requested by Bot 4 Help (Q4K).
+2023-11-27 00:29:28,059 - __main__ - INFO - Share command requested by Bot 4 Help (Q4K).
+2023-11-27 00:29:31,375 - __main__ - INFO - Share_Auto command requested by Bot 4 Help (Q4K).
+2023-11-27 00:29:31,383 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/home/runner/Q4K-Help-Bot/.pythonlibs/lib/python3.10/site-packages/telegram/ext/_application.py", line 1173, in process_update
+    await coroutine
+  File "/home/runner/Q4K-Help-Bot/.pythonlibs/lib/python3.10/site-packages/telegram/ext/_basehandler.py", line 141, in handle_update
+    return await self.callback(update, context)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 368, in button_click
+    await share_automatic(update, context)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 684, in share_automatic
+    end_page = await keyboard_button_control(update, context, keyboards)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 809, in keyboard_button_control
+    await dict_to_keyboard(update, context, next(iter(keyboards)) , keyboards)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 1053, in dict_to_keyboard
+    value_num = len(retrieve_data_advanced("Files/Shared_File_data.csv",value + "&"+"&".join(d) ,None, 100))
+  File "/home/runner/Q4K-Help-Bot/csv_operations.py", line 139, in retrieve_data_advanced
+    if len(str(search_keywords[i + 1])) > 1 :
+IndexError: list index out of range
+2023-11-27 00:29:53,498 - __main__ - INFO - Share_Manual command requested by ㅤㅤㅤㅤㅤㅤ.
+2023-11-27 00:30:02,166 - __main__ - INFO - Start command requested by Arwa.
+2023-11-27 00:30:04,249 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 00:30:04] "HEAD / HTTP/1.1" 200 -
+2023-11-27 00:30:16,112 - __main__ - INFO - Search command requested by Bot 4 Help (Q4K).
+2023-11-27 00:30:17,902 - __main__ - INFO - Share_Manual command requested by ㅤㅤㅤㅤㅤㅤ.
+2023-11-27 00:30:22,309 - __main__ - INFO - Search_Auto command requested by Bot 4 Help (Q4K).
+2023-11-27 00:30:22,322 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/home/runner/Q4K-Help-Bot/.pythonlibs/lib/python3.10/site-packages/telegram/ext/_application.py", line 1173, in process_update
+    await coroutine
+  File "/home/runner/Q4K-Help-Bot/.pythonlibs/lib/python3.10/site-packages/telegram/ext/_basehandler.py", line 141, in handle_update
+    return await self.callback(update, context)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 349, in button_click
+    await search_automatic(update, context)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 719, in search_automatic
+    end_page = await keyboard_button_control(update, context, keyboards)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 809, in keyboard_button_control
+    await dict_to_keyboard(update, context, next(iter(keyboards)) , keyboards)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 1053, in dict_to_keyboard
+    value_num = len(retrieve_data_advanced("Files/Shared_File_data.csv",value + "&"+"&".join(d) ,None, 100))
+  File "/home/runner/Q4K-Help-Bot/csv_operations.py", line 139, in retrieve_data_advanced
+    if len(str(search_keywords[i + 1])) > 1 :
+IndexError: list index out of range
+2023-11-27 00:31:00,527 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/home/runner/Q4K-Help-Bot/.pythonlibs/lib/python3.10/site-packages/telegram/ext/_application.py", line 1173, in process_update
+    await coroutine
+  File "/home/runner/Q4K-Help-Bot/.pythonlibs/lib/python3.10/site-packages/telegram/ext/_basehandler.py", line 141, in handle_update
+    return await self.callback(update, context)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 471, in attachHandelr
+    await modify_caption_and_send(update, context)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 927, in modify_caption_and_send
+    context.user_cache_data["Lecture"] = "\n".join(lectures)
+TypeError: can only join an iterable
+2023-11-27 00:34:06,065 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/home/runner/Q4K-Help-Bot/.pythonlibs/lib/python3.10/site-packages/telegram/ext/_application.py", line 1173, in process_update
+    await coroutine
+  File "/home/runner/Q4K-Help-Bot/.pythonlibs/lib/python3.10/site-packages/telegram/ext/_basehandler.py", line 141, in handle_update
+    return await self.callback(update, context)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 471, in attachHandelr
+    await modify_caption_and_send(update, context)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 927, in modify_caption_and_send
+    context.user_cache_data["Lecture"] = "\n".join(lectures)
+TypeError: can only join an iterable
+2023-11-27 00:34:06,300 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/home/runner/Q4K-Help-Bot/.pythonlibs/lib/python3.10/site-packages/telegram/ext/_application.py", line 1173, in process_update
+    await coroutine
+  File "/home/runner/Q4K-Help-Bot/.pythonlibs/lib/python3.10/site-packages/telegram/ext/_basehandler.py", line 141, in handle_update
+    return await self.callback(update, context)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 471, in attachHandelr
+    await modify_caption_and_send(update, context)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 927, in modify_caption_and_send
+    context.user_cache_data["Lecture"] = "\n".join(lectures)
+TypeError: can only join an iterable
+2023-11-27 00:34:06,497 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/home/runner/Q4K-Help-Bot/.pythonlibs/lib/python3.10/site-packages/telegram/ext/_application.py", line 1173, in process_update
+    await coroutine
+  File "/home/runner/Q4K-Help-Bot/.pythonlibs/lib/python3.10/site-packages/telegram/ext/_basehandler.py", line 141, in handle_update
+    return await self.callback(update, context)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 471, in attachHandelr
+    await modify_caption_and_send(update, context)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 927, in modify_caption_and_send
+    context.user_cache_data["Lecture"] = "\n".join(lectures)
+TypeError: can only join an iterable
+2023-11-27 00:34:06,697 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/home/runner/Q4K-Help-Bot/.pythonlibs/lib/python3.10/site-packages/telegram/ext/_application.py", line 1173, in process_update
+    await coroutine
+  File "/home/runner/Q4K-Help-Bot/.pythonlibs/lib/python3.10/site-packages/telegram/ext/_basehandler.py", line 141, in handle_update
+    return await self.callback(update, context)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 471, in attachHandelr
+    await modify_caption_and_send(update, context)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 927, in modify_caption_and_send
+    context.user_cache_data["Lecture"] = "\n".join(lectures)
+TypeError: can only join an iterable
+2023-11-27 00:34:06,893 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/home/runner/Q4K-Help-Bot/.pythonlibs/lib/python3.10/site-packages/telegram/ext/_application.py", line 1173, in process_update
+    await coroutine
+  File "/home/runner/Q4K-Help-Bot/.pythonlibs/lib/python3.10/site-packages/telegram/ext/_basehandler.py", line 141, in handle_update
+    return await self.callback(update, context)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 471, in attachHandelr
+    await modify_caption_and_send(update, context)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 927, in modify_caption_and_send
+    context.user_cache_data["Lecture"] = "\n".join(lectures)
+TypeError: can only join an iterable
+2023-11-27 00:34:52,374 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2023-11-27 00:34:52,393 - telegram.ext.Application - INFO - Application.stop() complete
+2023-11-27 00:35:54,908 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.196.34:8080
+2023-11-27 00:35:54,909 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-27 00:35:56,086 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 00:35:55] "GET / HTTP/1.1" 200 -
+2023-11-27 00:36:00,991 - telegram.ext.Application - INFO - Application started
+2023-11-27 00:36:02,945 - __main__ - INFO - Search command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 00:36:05,243 - __main__ - INFO - Search_Manual command requested by Bot 4 Help (Q4K).
+2023-11-27 00:37:29,293 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2023-11-27 00:37:29,298 - telegram.ext.Application - INFO - Application.stop() complete
+2023-11-27 00:38:17,692 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.196.34:8080
+2023-11-27 00:38:17,693 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-27 00:38:19,093 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 00:38:19] "[33mOPTIONS * HTTP/1.1[0m" 404 -
+2023-11-27 00:38:19,167 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 00:38:19] "GET / HTTP/1.1" 200 -
+2023-11-27 00:38:19,495 - telegram.ext.Application - INFO - Application started
+2023-11-27 00:38:29,765 - __main__ - INFO - Search command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 00:38:35,363 - __main__ - INFO - Search_Manual command requested by Bot 4 Help (Q4K).
+2023-11-27 00:39:05,358 - __main__ - INFO - Search_Manual command requested by Bot 4 Help (Q4K).
+2023-11-27 00:39:32,945 - __main__ - INFO - Share command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 00:39:44,958 - __main__ - INFO - Share_Manual command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 00:39:53,059 - __main__ - INFO - Share_Manual command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 00:40:13,109 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/home/runner/Q4K-Help-Bot/.pythonlibs/lib/python3.10/site-packages/telegram/ext/_application.py", line 1173, in process_update
+    await coroutine
+  File "/home/runner/Q4K-Help-Bot/.pythonlibs/lib/python3.10/site-packages/telegram/ext/_basehandler.py", line 141, in handle_update
+    return await self.callback(update, context)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 471, in attachHandelr
+    await modify_caption_and_send(update, context)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 927, in modify_caption_and_send
+    context.user_cache_data["Lecture"] = "\n".join(lectures)
+TypeError: can only join an iterable
+2023-11-27 00:40:32,258 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 00:40:32] "HEAD / HTTP/1.1" 200 -
+2023-11-27 00:40:55,202 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2023-11-27 00:40:55,203 - telegram.ext.Application - INFO - Application.stop() complete
+2023-11-27 00:41:10,931 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.196.34:8080
+2023-11-27 00:41:10,931 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-27 00:41:12,498 - telegram.ext.Application - INFO - Application started
+2023-11-27 00:41:13,100 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 00:41:13] "[33mOPTIONS * HTTP/1.1[0m" 404 -
+2023-11-27 00:41:13,175 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 00:41:13] "GET / HTTP/1.1" 200 -
+2023-11-27 00:41:31,436 - __main__ - INFO - Share command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 00:41:34,555 - __main__ - INFO - Share_Auto command requested by Bot 4 Help (Q4K).
+2023-11-27 00:41:34,570 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/home/runner/Q4K-Help-Bot/.pythonlibs/lib/python3.10/site-packages/telegram/ext/_application.py", line 1173, in process_update
+    await coroutine
+  File "/home/runner/Q4K-Help-Bot/.pythonlibs/lib/python3.10/site-packages/telegram/ext/_basehandler.py", line 141, in handle_update
+    return await self.callback(update, context)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 368, in button_click
+    await share_automatic(update, context)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 683, in share_automatic
+    end_page = await keyboard_button_control(update, context, keyboards)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 808, in keyboard_button_control
+    await dict_to_keyboard(update, context, next(iter(keyboards)) , keyboards)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 1052, in dict_to_keyboard
+    value_num = len(retrieve_data_advanced("Files/Shared_File_data.csv",value + "&"+"&".join(d) ,None, 100))
+  File "/home/runner/Q4K-Help-Bot/csv_operations.py", line 139, in retrieve_data_advanced
+    if len(str(search_keywords[i + 1])) > 1 :
+IndexError: list index out of range
+2023-11-27 00:41:39,073 - __main__ - INFO - Share_Manual command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 00:41:45,948 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2023-11-27 00:41:45,949 - telegram.ext.Application - INFO - Application.stop() complete
+2023-11-27 00:42:31,194 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.196.34:8080
+2023-11-27 00:42:31,197 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-27 00:42:32,951 - telegram.ext.Application - INFO - Application started
+2023-11-27 00:42:33,267 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 00:42:33] "[33mOPTIONS * HTTP/1.1[0m" 404 -
+2023-11-27 00:42:33,342 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 00:42:33] "GET / HTTP/1.1" 200 -
+2023-11-27 00:42:33,500 - __main__ - INFO - Share command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 00:42:36,432 - __main__ - INFO - Share_Manual command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 00:42:52,632 - __main__ - INFO - Share command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 00:42:55,794 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2023-11-27 00:42:55,794 - telegram.ext.Application - INFO - Application.stop() complete
+2023-11-27 00:44:08,203 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.196.34:8080
+2023-11-27 00:44:08,203 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-27 00:44:09,294 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 00:44:09] "GET / HTTP/1.1" 200 -
+2023-11-27 00:44:10,095 - telegram.ext.Application - INFO - Application started
+2023-11-27 00:45:32,263 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 00:45:32] "HEAD / HTTP/1.1" 200 -
+2023-11-27 00:45:41,952 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2023-11-27 00:45:41,952 - telegram.ext.Application - INFO - Application.stop() complete
+2023-11-27 00:45:52,152 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.196.34:8080
+2023-11-27 00:45:52,152 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-27 00:45:53,407 - telegram.ext.Application - INFO - Application started
+2023-11-27 00:45:53,462 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 00:45:53] "[33mOPTIONS * HTTP/1.1[0m" 404 -
+2023-11-27 00:45:53,536 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 00:45:53] "GET / HTTP/1.1" 200 -
+2023-11-27 00:45:53,903 - __main__ - INFO - Share command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 00:45:57,426 - __main__ - INFO - Share_Manual command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 00:46:33,795 - __main__ - INFO - Share_Manual command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 00:47:03,063 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/home/runner/Q4K-Help-Bot/.pythonlibs/lib/python3.10/site-packages/telegram/ext/_application.py", line 1173, in process_update
+    await coroutine
+  File "/home/runner/Q4K-Help-Bot/.pythonlibs/lib/python3.10/site-packages/telegram/ext/_basehandler.py", line 141, in handle_update
+    return await self.callback(update, context)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 471, in attachHandelr
+    await modify_caption_and_send(update, context)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 927, in modify_caption_and_send
+    context.user_cache_data["Lecture"] = "\n".join(lectures)
+TypeError: can only join an iterable
+2023-11-27 00:48:15,915 - __main__ - INFO - Search command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 00:48:19,025 - __main__ - INFO - Search_Auto command requested by Bot 4 Help (Q4K).
+2023-11-27 00:48:19,032 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/home/runner/Q4K-Help-Bot/.pythonlibs/lib/python3.10/site-packages/telegram/ext/_application.py", line 1173, in process_update
+    await coroutine
+  File "/home/runner/Q4K-Help-Bot/.pythonlibs/lib/python3.10/site-packages/telegram/ext/_basehandler.py", line 141, in handle_update
+    return await self.callback(update, context)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 349, in button_click
+    await search_automatic(update, context)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 719, in search_automatic
+    end_page = await keyboard_button_control(update, context, keyboards)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 809, in keyboard_button_control
+    await dict_to_keyboard(update, context, next(iter(keyboards)) , keyboards)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 1053, in dict_to_keyboard
+    value_num = len(retrieve_data_advanced("Files/Shared_File_data.csv",value + "&"+"&".join(d) ,None, 100))
+  File "/home/runner/Q4K-Help-Bot/csv_operations.py", line 139, in retrieve_data_advanced
+    if len(str(search_keywords[i + 1])) > 1 :
+IndexError: list index out of range
+2023-11-27 00:49:17,342 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2023-11-27 00:49:17,356 - telegram.ext.Application - INFO - Application.stop() complete
+2023-11-27 00:49:35,894 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.196.34:8080
+2023-11-27 00:49:35,894 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-27 00:49:37,298 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 00:49:37] "GET / HTTP/1.1" 200 -
+2023-11-27 00:49:37,557 - telegram.ext.Application - INFO - Application started
+2023-11-27 00:49:38,086 - __main__ - INFO - Search command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 00:49:40,318 - __main__ - INFO - Search_Auto command requested by Bot 4 Help (Q4K).
+2023-11-27 00:49:40,395 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/home/runner/Q4K-Help-Bot/.pythonlibs/lib/python3.10/site-packages/telegram/ext/_application.py", line 1173, in process_update
+    await coroutine
+  File "/home/runner/Q4K-Help-Bot/.pythonlibs/lib/python3.10/site-packages/telegram/ext/_basehandler.py", line 141, in handle_update
+    return await self.callback(update, context)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 349, in button_click
+    await search_automatic(update, context)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 719, in search_automatic
+    end_page = await keyboard_button_control(update, context, keyboards)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 809, in keyboard_button_control
+    await dict_to_keyboard(update, context, next(iter(keyboards)) , keyboards)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 1053, in dict_to_keyboard
+    value_num = len(retrieve_data_advanced("Files/Shared_File_data.csv",value + "&"+"&".join(d) ,None, 100))
+  File "/home/runner/Q4K-Help-Bot/csv_operations.py", line 139, in retrieve_data_advanced
+    if len(str(search_keywords[i + 1])) > 1 :
+IndexError: list index out of range
+2023-11-27 00:49:58,323 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2023-11-27 00:49:58,323 - telegram.ext.Application - INFO - Application.stop() complete
+2023-11-27 00:50:13,181 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.196.34:8080
+2023-11-27 00:50:13,192 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-27 00:50:15,016 - telegram.ext.Application - INFO - Application started
+2023-11-27 00:50:16,077 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 00:50:16] "[33mOPTIONS * HTTP/1.1[0m" 404 -
+2023-11-27 00:50:16,081 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 00:50:16] "GET / HTTP/1.1" 200 -
+2023-11-27 00:50:25,655 - __main__ - INFO - Search command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 00:50:28,266 - __main__ - INFO - Search_Auto command requested by Bot 4 Help (Q4K).
+2023-11-27 00:50:28,273 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/home/runner/Q4K-Help-Bot/.pythonlibs/lib/python3.10/site-packages/telegram/ext/_application.py", line 1173, in process_update
+    await coroutine
+  File "/home/runner/Q4K-Help-Bot/.pythonlibs/lib/python3.10/site-packages/telegram/ext/_basehandler.py", line 141, in handle_update
+    return await self.callback(update, context)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 349, in button_click
+    await search_automatic(update, context)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 719, in search_automatic
+    end_page = await keyboard_button_control(update, context, keyboards)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 809, in keyboard_button_control
+    await dict_to_keyboard(update, context, next(iter(keyboards)) , keyboards)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 1053, in dict_to_keyboard
+    value_num = len(retrieve_data_advanced("Files/Shared_File_data.csv",value + "&"+"&".join(d) ,None, 100))
+  File "/home/runner/Q4K-Help-Bot/csv_operations.py", line 139, in retrieve_data_advanced
+    if len(str(search_keywords[i + 1])) > 1 :
+IndexError: list index out of range
+2023-11-27 00:50:32,253 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 00:50:32] "HEAD / HTTP/1.1" 200 -
+2023-11-27 00:50:46,562 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2023-11-27 00:50:46,562 - telegram.ext.Application - INFO - Application.stop() complete
+2023-11-27 00:50:57,196 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.196.34:8080
+2023-11-27 00:50:57,199 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-27 00:50:58,640 - telegram.ext.Application - INFO - Application started
+2023-11-27 00:50:59,340 - __main__ - INFO - Search command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 00:50:59,406 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 00:50:59] "[33mOPTIONS * HTTP/1.1[0m" 404 -
+2023-11-27 00:50:59,488 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 00:50:59] "GET / HTTP/1.1" 200 -
+2023-11-27 00:51:00,998 - __main__ - INFO - Search_Auto command requested by Bot 4 Help (Q4K).
+2023-11-27 00:51:01,026 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/home/runner/Q4K-Help-Bot/.pythonlibs/lib/python3.10/site-packages/telegram/ext/_application.py", line 1173, in process_update
+    await coroutine
+  File "/home/runner/Q4K-Help-Bot/.pythonlibs/lib/python3.10/site-packages/telegram/ext/_basehandler.py", line 141, in handle_update
+    return await self.callback(update, context)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 349, in button_click
+    await search_automatic(update, context)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 719, in search_automatic
+    end_page = await keyboard_button_control(update, context, keyboards)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 809, in keyboard_button_control
+    await dict_to_keyboard(update, context, next(iter(keyboards)) , keyboards)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 1053, in dict_to_keyboard
+    value_num = len(retrieve_data_advanced("Files/Shared_File_data.csv",value + "&"+"&".join(d) ,None, 100))
+  File "/home/runner/Q4K-Help-Bot/csv_operations.py", line 139, in retrieve_data_advanced
+    if len(str(search_keywords[i + 1])) > 1 :
+IndexError: list index out of range
+2023-11-27 00:51:34,710 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2023-11-27 00:51:34,714 - telegram.ext.Application - INFO - Application.stop() complete
+2023-11-27 00:52:08,393 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.196.34:8080
+2023-11-27 00:52:08,394 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-27 00:52:09,694 - telegram.ext.Application - INFO - Application started
+2023-11-27 00:52:10,170 - __main__ - INFO - Search command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 00:52:10,726 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 00:52:10] "[33mOPTIONS * HTTP/1.1[0m" 404 -
+2023-11-27 00:52:10,730 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 00:52:10] "GET / HTTP/1.1" 200 -
+2023-11-27 00:52:27,984 - __main__ - INFO - Search_Auto command requested by Bot 4 Help (Q4K).
+2023-11-27 00:52:33,116 - __main__ - INFO - Search_Auto command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 00:52:36,929 - __main__ - INFO - Search_Auto command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 00:52:47,946 - __main__ - INFO - Search_Auto command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 00:52:54,645 - __main__ - INFO - Search_Auto command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 00:52:58,228 - __main__ - INFO - Search_Auto command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 00:53:14,807 - __main__ - INFO - Search_Auto command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 00:53:29,656 - __main__ - INFO - Search_Auto command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 00:53:29,657 - __main__ - INFO - Share command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 00:53:37,227 - __main__ - INFO - Share_Auto command requested by Bot 4 Help (Q4K).
+2023-11-27 00:53:53,057 - __main__ - INFO - Share_Auto command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 00:53:55,272 - __main__ - INFO - Share_Auto command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 00:54:02,607 - __main__ - INFO - Share_Auto command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 00:54:08,274 - __main__ - INFO - Share_Auto command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 00:54:47,293 - __main__ - INFO - Share_Auto command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 00:55:14,710 - __main__ - INFO - Share_Auto command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 00:55:18,205 - __main__ - INFO - Share_Auto command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 00:55:19,700 - __main__ - INFO - Share_Auto command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 00:55:22,366 - __main__ - INFO - Share_Auto command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 00:55:23,975 - __main__ - INFO - Share_Auto command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 00:55:32,247 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 00:55:32] "HEAD / HTTP/1.1" 200 -
+2023-11-27 00:59:48,797 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2023-11-27 00:59:48,798 - telegram.ext.Application - INFO - Application.stop() complete
+2023-11-27 01:00:05,109 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.196.34:8080
+2023-11-27 01:00:05,110 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-27 01:00:06,810 - telegram.ext.Application - INFO - Application started
+2023-11-27 01:00:07,407 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 01:00:07] "[33mOPTIONS * HTTP/1.1[0m" 404 -
+2023-11-27 01:00:07,417 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 01:00:07] "GET / HTTP/1.1" 200 -
+2023-11-27 01:00:32,256 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 01:00:32] "HEAD / HTTP/1.1" 200 -
+2023-11-27 01:01:05,538 - __main__ - INFO - Share command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 01:01:12,022 - __main__ - INFO - Search command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 01:01:14,643 - __main__ - INFO - Search_Auto command requested by Bot 4 Help (Q4K).
+2023-11-27 01:01:14,643 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/home/runner/Q4K-Help-Bot/.pythonlibs/lib/python3.10/site-packages/telegram/ext/_application.py", line 1173, in process_update
+    await coroutine
+  File "/home/runner/Q4K-Help-Bot/.pythonlibs/lib/python3.10/site-packages/telegram/ext/_basehandler.py", line 141, in handle_update
+    return await self.callback(update, context)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 349, in button_click
+    await search_automatic(update, context)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 719, in search_automatic
+    end_page = await keyboard_button_control(update, context, keyboards)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 809, in keyboard_button_control
+    await dict_to_keyboard(update, context, next(iter(keyboards)) , keyboards)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 1041, in dict_to_keyboard
+    msg = update.message.text.split("(")[0]
+AttributeError: 'NoneType' object has no attribute 'text'
+2023-11-27 01:02:23,321 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2023-11-27 01:02:23,322 - telegram.ext.Application - INFO - Application.stop() complete
+2023-11-27 01:02:46,292 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.196.34:8080
+2023-11-27 01:02:46,292 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-27 01:02:47,901 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 01:02:47] "[33mOPTIONS * HTTP/1.1[0m" 404 -
+2023-11-27 01:02:47,904 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 01:02:47] "GET / HTTP/1.1" 200 -
+2023-11-27 01:02:48,043 - telegram.ext.Application - INFO - Application started
+2023-11-27 01:02:48,608 - __main__ - INFO - Search command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 01:02:50,294 - __main__ - INFO - Search_Auto command requested by Bot 4 Help (Q4K).
+2023-11-27 01:02:54,212 - __main__ - INFO - Search_Auto command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 01:02:58,095 - __main__ - INFO - Search_Auto command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 01:03:00,299 - __main__ - INFO - Search_Auto command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 01:03:02,643 - __main__ - INFO - Search_Auto command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 01:03:13,594 - __main__ - INFO - Search_Auto command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 01:03:21,597 - __main__ - INFO - Search_Auto command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 01:03:25,679 - __main__ - INFO - Search_Auto command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 01:03:29,709 - __main__ - INFO - Search_Auto command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 01:03:41,892 - __main__ - INFO - Search_Auto command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 01:03:51,884 - __main__ - INFO - Search_Auto command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 01:03:51,884 - __main__ - INFO - Share command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 01:04:12,946 - __main__ - INFO - Share_Auto command requested by Bot 4 Help (Q4K).
+2023-11-27 01:04:20,513 - __main__ - INFO - Share_Auto command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 01:04:24,069 - __main__ - INFO - Share_Auto command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 01:04:27,041 - __main__ - INFO - Share_Auto command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 01:04:28,716 - __main__ - INFO - Share_Auto command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 01:05:32,272 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 01:05:32] "HEAD / HTTP/1.1" 200 -
+2023-11-27 01:10:32,297 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 01:10:32] "HEAD / HTTP/1.1" 200 -
+2023-11-27 01:13:27,040 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2023-11-27 01:13:27,041 - telegram.ext.Application - INFO - Application.stop() complete
+2023-11-27 01:15:38,824 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.196.34:8080
+2023-11-27 01:15:38,824 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-27 01:15:39,995 - telegram.ext.Application - INFO - Application started
+2023-11-27 01:15:41,026 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 01:15:41] "[33mOPTIONS * HTTP/1.1[0m" 404 -
+2023-11-27 01:15:41,050 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 01:15:41] "GET / HTTP/1.1" 200 -
+2023-11-27 01:15:59,833 - __main__ - INFO - Search command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 01:16:02,025 - __main__ - INFO - Search_Auto command requested by Bot 4 Help (Q4K).
+2023-11-27 01:16:07,038 - __main__ - INFO - Search_Auto command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 01:16:14,589 - __main__ - INFO - Search_Auto command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 01:16:30,982 - __main__ - INFO - Search_Auto command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 01:16:39,582 - __main__ - INFO - Search_Auto command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 01:16:42,222 - __main__ - INFO - Search_Auto command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 01:16:53,414 - __main__ - INFO - Search_Auto command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 01:18:00,858 - __main__ - INFO - Search_Auto command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 01:18:14,792 - __main__ - INFO - Search_Auto command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 01:18:18,483 - __main__ - INFO - Search_Auto command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 01:18:20,408 - __main__ - INFO - Search_Auto command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 01:18:22,142 - __main__ - INFO - Search_Auto command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 01:18:25,988 - __main__ - INFO - Search_Auto command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 01:18:27,687 - __main__ - INFO - Search_Auto command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 01:18:30,163 - __main__ - INFO - Search_Auto command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 01:18:39,954 - __main__ - INFO - Search_Auto command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 01:18:39,955 - __main__ - INFO - Share command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 01:18:50,513 - __main__ - INFO - Share_Manual command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 01:19:12,003 - __main__ - INFO - Share_Manual command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 01:19:38,262 - __main__ - INFO - Share_Auto command requested by Bot 4 Help (Q4K).
+2023-11-27 01:19:52,500 - __main__ - INFO - Share_Auto command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 01:20:13,859 - __main__ - INFO - Share_Auto command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 01:20:19,201 - __main__ - INFO - Share_Auto command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 01:20:19,202 - __main__ - INFO - Share command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 01:20:21,082 - __main__ - INFO - Share_Auto command requested by Bot 4 Help (Q4K).
+2023-11-27 01:20:23,649 - __main__ - INFO - Share_Auto command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 01:20:25,904 - __main__ - INFO - Share_Auto command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 01:20:36,116 - __main__ - INFO - Share_Auto command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 01:20:39,152 - __main__ - INFO - Share_Auto command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 01:20:56,645 - __main__ - INFO - Share_Auto command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 01:21:04,108 - __main__ - INFO - Share_Auto command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 01:21:10,030 - __main__ - INFO - Share_Auto command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 01:21:14,621 - __main__ - INFO - Share_Auto command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 01:21:23,089 - __main__ - INFO - Share_Auto command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 01:22:31,622 - __main__ - INFO - Search command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 01:22:34,659 - __main__ - INFO - Search_Manual command requested by Bot 4 Help (Q4K).
+2023-11-27 01:23:13,115 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 01:23:13] "GET / HTTP/1.1" 200 -
+2023-11-27 01:23:27,856 - __main__ - INFO - Edit command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 01:28:12,181 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 01:28:12] "HEAD / HTTP/1.1" 200 -
+2023-11-27 01:33:12,282 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 01:33:12] "HEAD / HTTP/1.1" 200 -
+2023-11-27 01:38:12,321 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 01:38:12] "HEAD / HTTP/1.1" 200 -
+2023-11-27 01:38:28,709 - __main__ - INFO - Search command requested by محمود.
+2023-11-27 01:38:31,607 - __main__ - INFO - Search_Auto command requested by Bot 4 Help (Q4K).
+2023-11-27 01:38:37,106 - __main__ - INFO - Search_Auto command requested by محمود.
+2023-11-27 01:38:41,221 - __main__ - INFO - Search_Auto command requested by محمود.
+2023-11-27 01:38:49,677 - __main__ - INFO - Search_Auto command requested by محمود.
+2023-11-27 01:38:54,505 - __main__ - INFO - Search_Auto command requested by محمود.
+2023-11-27 01:39:12,099 - __main__ - INFO - Search_Auto command requested by محمود.
+2023-11-27 01:39:19,797 - __main__ - INFO - Search_Auto command requested by محمود.
+2023-11-27 01:39:28,894 - __main__ - INFO - Search_Auto command requested by محمود.
+2023-11-27 01:39:46,761 - __main__ - INFO - Search_Auto command requested by محمود.
+2023-11-27 01:40:01,798 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2023-11-27 01:40:01,810 - telegram.ext.Application - INFO - Application.stop() complete
+2023-11-27 01:40:14,018 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.196.34:8080
+2023-11-27 01:40:14,054 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-27 01:40:15,407 - telegram.ext.Application - INFO - Application started
+2023-11-27 01:40:15,936 - __main__ - INFO - Start command requested by محمود.
+2023-11-27 01:40:16,296 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 01:40:16] "[33mOPTIONS * HTTP/1.1[0m" 404 -
+2023-11-27 01:40:16,308 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 01:40:16] "GET / HTTP/1.1" 200 -
+2023-11-27 01:40:20,166 - __main__ - INFO - Share command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 01:40:21,821 - __main__ - INFO - Start command requested by محمود.
+2023-11-27 01:40:23,186 - __main__ - INFO - Share_Auto command requested by Bot 4 Help (Q4K).
+2023-11-27 01:40:26,015 - __main__ - INFO - Search command requested by Bot 4 Help (Q4K).
+2023-11-27 01:40:28,290 - __main__ - INFO - Search_Auto command requested by Bot 4 Help (Q4K).
+2023-11-27 01:40:30,368 - __main__ - INFO - Search_Auto command requested by محمود.
+2023-11-27 01:40:32,651 - __main__ - INFO - Share_Manual command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 01:40:32,895 - __main__ - INFO - Search_Auto command requested by محمود.
+2023-11-27 01:40:36,204 - __main__ - INFO - Search_Auto command requested by محمود.
+2023-11-27 01:40:38,358 - __main__ - INFO - Search_Auto command requested by محمود.
+2023-11-27 01:40:46,438 - __main__ - INFO - Search_Auto command requested by محمود.
+2023-11-27 01:40:58,167 - __main__ - INFO - Search_Auto command requested by محمود.
+2023-11-27 01:41:02,549 - __main__ - INFO - Search_Auto command requested by محمود.
+2023-11-27 01:41:02,979 - __main__ - INFO - Edit command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 01:41:05,753 - __main__ - INFO - Search_Auto command requested by محمود.
+2023-11-27 01:41:17,928 - __main__ - INFO - Start command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 01:41:25,005 - __main__ - INFO - Search_Auto command requested by محمود.
+2023-11-27 01:42:34,011 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2023-11-27 01:42:34,011 - telegram.ext.Application - INFO - Application.stop() complete
+2023-11-27 01:43:24,516 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.196.34:8080
+2023-11-27 01:43:24,516 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-27 01:43:25,407 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 01:43:25] "GET / HTTP/1.1" 200 -
+2023-11-27 01:43:26,000 - telegram.ext.Application - INFO - Application started
+2023-11-27 01:43:34,293 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 01:43:34] "GET / HTTP/1.1" 200 -
+2023-11-27 01:44:05,313 - __main__ - INFO - Edit command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 01:44:38,134 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/home/runner/Q4K-Help-Bot/.pythonlibs/lib/python3.10/site-packages/telegram/ext/_application.py", line 1173, in process_update
+    await coroutine
+  File "/home/runner/Q4K-Help-Bot/.pythonlibs/lib/python3.10/site-packages/telegram/ext/_basehandler.py", line 141, in handle_update
+    return await self.callback(update, context)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 474, in attachHandelr
+  File "/home/runner/Q4K-Help-Bot/main.py", line 596, in edit_material_content
+    await context.bot.edit_message_caption(
+  File "/home/runner/Q4K-Help-Bot/main.py", line 488, in user_cache_data_to_hashtag
+  File "/home/runner/Q4K-Help-Bot/main.py", line 488, in <listcomp>
+TypeError: argument of type 'NoneType' is not iterable
+2023-11-27 01:44:52,741 - __main__ - INFO - Start command requested by Bot 4 Help (Q4K).
+2023-11-27 01:44:55,337 - __main__ - INFO - Edit command requested by Bot 4 Help (Q4K).
+2023-11-27 01:45:31,232 - __main__ - INFO - Start command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 01:45:36,513 - __main__ - INFO - Edit command requested by Bot 4 Help (Q4K).
+2023-11-27 01:45:59,219 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/home/runner/Q4K-Help-Bot/.pythonlibs/lib/python3.10/site-packages/telegram/ext/_application.py", line 1173, in process_update
+    await coroutine
+  File "/home/runner/Q4K-Help-Bot/.pythonlibs/lib/python3.10/site-packages/telegram/ext/_basehandler.py", line 141, in handle_update
+    return await self.callback(update, context)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 474, in attachHandelr
+  File "/home/runner/Q4K-Help-Bot/main.py", line 596, in edit_material_content
+    await context.bot.edit_message_caption(
+  File "/home/runner/Q4K-Help-Bot/main.py", line 488, in user_cache_data_to_hashtag
+  File "/home/runner/Q4K-Help-Bot/main.py", line 488, in <listcomp>
+TypeError: argument of type 'NoneType' is not iterable
+2023-11-27 01:46:44,219 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/home/runner/Q4K-Help-Bot/.pythonlibs/lib/python3.10/site-packages/telegram/ext/_application.py", line 1173, in process_update
+    await coroutine
+  File "/home/runner/Q4K-Help-Bot/.pythonlibs/lib/python3.10/site-packages/telegram/ext/_basehandler.py", line 141, in handle_update
+    return await self.callback(update, context)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 394, in button_click
+    await edit_material_caption(update, context)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 647, in edit_material_caption
+    # Edit Database
+  File "/home/runner/Q4K-Help-Bot/main.py", line 488, in user_cache_data_to_hashtag
+  File "/home/runner/Q4K-Help-Bot/main.py", line 488, in <listcomp>
+TypeError: argument of type 'NoneType' is not iterable
+2023-11-27 01:46:48,301 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/home/runner/Q4K-Help-Bot/.pythonlibs/lib/python3.10/site-packages/telegram/ext/_application.py", line 1173, in process_update
+    await coroutine
+  File "/home/runner/Q4K-Help-Bot/.pythonlibs/lib/python3.10/site-packages/telegram/ext/_basehandler.py", line 141, in handle_update
+    return await self.callback(update, context)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 394, in button_click
+    await edit_material_caption(update, context)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 647, in edit_material_caption
+    # Edit Database
+  File "/home/runner/Q4K-Help-Bot/main.py", line 488, in user_cache_data_to_hashtag
+  File "/home/runner/Q4K-Help-Bot/main.py", line 488, in <listcomp>
+TypeError: argument of type 'NoneType' is not iterable
+2023-11-27 01:48:34,325 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 01:48:34] "HEAD / HTTP/1.1" 200 -
+2023-11-27 01:51:00,895 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2023-11-27 01:51:00,896 - telegram.ext.Application - INFO - Application.stop() complete
+2023-11-27 01:51:13,365 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.196.34:8080
+2023-11-27 01:51:13,365 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-27 01:51:14,662 - telegram.ext.Application - INFO - Application started
+2023-11-27 01:51:15,723 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 01:51:15] "[33mOPTIONS * HTTP/1.1[0m" 404 -
+2023-11-27 01:51:15,730 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 01:51:15] "GET / HTTP/1.1" 200 -
+2023-11-27 01:51:41,426 - __main__ - INFO - Edit command requested by Osama.
+2023-11-27 01:52:06,821 - __main__ - INFO - Edit command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 01:52:42,383 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/home/runner/Q4K-Help-Bot/.pythonlibs/lib/python3.10/site-packages/telegram/ext/_application.py", line 1173, in process_update
+    await coroutine
+  File "/home/runner/Q4K-Help-Bot/.pythonlibs/lib/python3.10/site-packages/telegram/ext/_basehandler.py", line 141, in handle_update
+    return await self.callback(update, context)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 394, in button_click
+    await edit_material_caption(update, context)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 647, in edit_material_caption
+    caption= user_cache_data_to_hashtag(context.user_cache_data)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 488, in user_cache_data_to_hashtag
+    return "#" + "\n#".join([str(value).replace(" ", "_").replace("/","\n#") for value in values_list if value not in None])
+  File "/home/runner/Q4K-Help-Bot/main.py", line 488, in <listcomp>
+    return "#" + "\n#".join([str(value).replace(" ", "_").replace("/","\n#") for value in values_list if value not in None])
+TypeError: argument of type 'NoneType' is not iterable
+2023-11-27 01:53:34,330 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 01:53:34] "HEAD / HTTP/1.1" 200 -
+2023-11-27 01:56:29,509 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2023-11-27 01:56:29,510 - telegram.ext.Application - INFO - Application.stop() complete
+2023-11-27 01:56:53,315 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.196.34:8080
+2023-11-27 01:56:53,315 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-27 01:56:55,314 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 01:56:55] "[33mOPTIONS * HTTP/1.1[0m" 404 -
+2023-11-27 01:56:55,384 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 01:56:55] "GET / HTTP/1.1" 200 -
+2023-11-27 01:56:55,403 - telegram.ext.Application - INFO - Application started
+2023-11-27 01:56:55,915 - __main__ - INFO - Edit command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 01:57:20,446 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/home/runner/Q4K-Help-Bot/.pythonlibs/lib/python3.10/site-packages/telegram/ext/_application.py", line 1173, in process_update
+    await coroutine
+  File "/home/runner/Q4K-Help-Bot/.pythonlibs/lib/python3.10/site-packages/telegram/ext/_basehandler.py", line 141, in handle_update
+    return await self.callback(update, context)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 394, in button_click
+    await edit_material_caption(update, context)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 648, in edit_material_caption
+    caption= user_cache_data_to_hashtag(context.user_cache_data)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 489, in user_cache_data_to_hashtag
+    return "#" + "\n#".join([str(value).replace(" ", "_").replace("/","\n#") for value in values_list if value not in None])
+  File "/home/runner/Q4K-Help-Bot/main.py", line 489, in <listcomp>
+    return "#" + "\n#".join([str(value).replace(" ", "_").replace("/","\n#") for value in values_list if value not in None])
+TypeError: argument of type 'NoneType' is not iterable
+2023-11-27 01:58:21,195 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2023-11-27 01:58:21,204 - telegram.ext.Application - INFO - Application.stop() complete
+2023-11-27 01:59:00,740 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.196.34:8080
+2023-11-27 01:59:00,782 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-27 01:59:04,319 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 01:59:04] "GET / HTTP/1.1" 200 -
+2023-11-27 01:59:05,155 - telegram.ext.Application - INFO - Application started
+2023-11-27 01:59:06,063 - __main__ - INFO - Edit command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 01:59:21,523 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/home/runner/Q4K-Help-Bot/.pythonlibs/lib/python3.10/site-packages/telegram/ext/_application.py", line 1173, in process_update
+    await coroutine
+  File "/home/runner/Q4K-Help-Bot/.pythonlibs/lib/python3.10/site-packages/telegram/ext/_basehandler.py", line 141, in handle_update
+    return await self.callback(update, context)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 394, in button_click
+    await edit_material_caption(update, context)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 649, in edit_material_caption
+    caption= user_cache_data_to_hashtag(context.user_cache_data)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 490, in user_cache_data_to_hashtag
+    return "#" + "\n#".join([str(value).replace(" ", "_").replace("/","\n#") for value in values_list if value not in None])
+  File "/home/runner/Q4K-Help-Bot/main.py", line 490, in <listcomp>
+    return "#" + "\n#".join([str(value).replace(" ", "_").replace("/","\n#") for value in values_list if value not in None])
+TypeError: argument of type 'NoneType' is not iterable
+2023-11-27 02:01:03,995 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2023-11-27 02:01:03,998 - telegram.ext.Application - INFO - Application.stop() complete
+2023-11-27 02:03:31,627 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.196.34:8080
+2023-11-27 02:03:31,637 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-27 02:03:32,793 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 02:03:32] "GET / HTTP/1.1" 200 -
+2023-11-27 02:03:33,398 - telegram.ext.Application - INFO - Application started
+2023-11-27 02:03:36,132 - __main__ - INFO - Edit command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 02:03:47,897 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/home/runner/Q4K-Help-Bot/.pythonlibs/lib/python3.10/site-packages/telegram/ext/_application.py", line 1173, in process_update
+    await coroutine
+  File "/home/runner/Q4K-Help-Bot/.pythonlibs/lib/python3.10/site-packages/telegram/ext/_basehandler.py", line 141, in handle_update
+    return await self.callback(update, context)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 394, in button_click
+    await edit_material_caption(update, context)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 649, in edit_material_caption
+    caption= user_cache_data_to_hashtag(context.user_cache_data)
+  File "/home/runner/Q4K-Help-Bot/main.py", line 490, in user_cache_data_to_hashtag
+    return "#" + "\n#".join([str(value).replace(" ", "_").replace("/","\n#") for value in values_list if value not in None])
+  File "/home/runner/Q4K-Help-Bot/main.py", line 490, in <listcomp>
+    return "#" + "\n#".join([str(value).replace(" ", "_").replace("/","\n#") for value in values_list if value not in None])
+TypeError: argument of type 'NoneType' is not iterable
+2023-11-27 02:03:56,205 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 02:03:56] "HEAD / HTTP/1.1" 200 -
+2023-11-27 02:04:13,001 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2023-11-27 02:04:13,003 - telegram.ext.Application - INFO - Application.stop() complete
+2023-11-27 02:04:32,501 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.196.34:8080
+2023-11-27 02:04:32,502 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-27 02:04:33,598 - telegram.ext.Application - INFO - Application started
+2023-11-27 02:04:33,630 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 02:04:33] "GET / HTTP/1.1" 200 -
+2023-11-27 02:04:34,114 - __main__ - INFO - Edit command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 02:08:56,261 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 02:08:56] "HEAD / HTTP/1.1" 200 -
+2023-11-27 02:09:26,803 - __main__ - INFO - Edit command requested by Bot 4 Help (Q4K).
+2023-11-27 02:10:09,835 - __main__ - INFO - GPACalc command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 02:10:32,000 - __main__ - INFO - CourseLock command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 02:13:56,233 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 02:13:56] "HEAD / HTTP/1.1" 200 -
+2023-11-27 02:15:12,429 - __main__ - INFO - Remove command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 02:15:15,251 - __main__ - INFO - Edit command requested by ꪮ𝘴ꪖꪑꪖ.
+2023-11-27 02:18:56,253 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 02:18:56] "HEAD / HTTP/1.1" 200 -
+2023-11-27 02:23:56,382 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 02:23:56] "HEAD / HTTP/1.1" 200 -
+2023-11-27 02:28:56,312 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 02:28:56] "HEAD / HTTP/1.1" 200 -
+2023-11-27 02:33:56,317 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 02:33:56] "HEAD / HTTP/1.1" 200 -
+2023-11-27 02:38:56,365 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 02:38:56] "HEAD / HTTP/1.1" 200 -
+2023-11-27 02:43:56,432 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 02:43:56] "HEAD / HTTP/1.1" 200 -
+2023-11-27 02:48:56,373 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 02:48:56] "HEAD / HTTP/1.1" 200 -
+2023-11-27 02:53:56,242 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 02:53:56] "HEAD / HTTP/1.1" 200 -
+2023-11-27 02:58:56,285 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 02:58:56] "HEAD / HTTP/1.1" 200 -
+2023-11-27 03:03:56,411 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 03:03:56] "HEAD / HTTP/1.1" 200 -
+2023-11-27 03:30:25,562 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.196.13:8080
+2023-11-27 03:30:25,563 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-27 03:30:25,622 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 03:30:25] "[33mOPTIONS * HTTP/1.1[0m" 404 -
+2023-11-27 03:30:25,668 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 03:30:25] "HEAD / HTTP/1.1" 200 -
+2023-11-27 03:30:26,134 - telegram.ext.Application - INFO - Application started
+2023-11-27 03:35:16,403 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 03:35:16] "HEAD / HTTP/1.1" 200 -
+2023-11-27 03:40:16,347 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 03:40:16] "HEAD / HTTP/1.1" 200 -
+2023-11-27 03:45:16,394 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 03:45:16] "HEAD / HTTP/1.1" 200 -
+2023-11-27 03:50:16,458 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 03:50:16] "HEAD / HTTP/1.1" 200 -
+2023-11-27 03:55:16,190 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 03:55:16] "HEAD / HTTP/1.1" 200 -
+2023-11-27 04:00:16,282 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 04:00:16] "HEAD / HTTP/1.1" 200 -
+2023-11-27 04:05:16,237 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 04:05:16] "HEAD / HTTP/1.1" 200 -
+2023-11-27 04:10:16,354 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 04:10:16] "HEAD / HTTP/1.1" 200 -
+2023-11-27 04:15:16,377 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 04:15:16] "HEAD / HTTP/1.1" 200 -
+2023-11-27 04:20:16,356 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 04:20:16] "HEAD / HTTP/1.1" 200 -
+2023-11-27 04:20:38,392 - __main__ - INFO - Start command requested by عمرو.
+2023-11-27 04:20:53,673 - __main__ - INFO - Search command requested by Bot 4 Help (Q4K).
+2023-11-27 04:20:57,753 - __main__ - INFO - Search_Manual command requested by Bot 4 Help (Q4K).
+2023-11-27 04:21:05,591 - __main__ - INFO - Search_Auto command requested by Bot 4 Help (Q4K).
+2023-11-27 04:21:13,171 - __main__ - INFO - Search_Auto command requested by عمرو.
+2023-11-27 04:21:17,691 - __main__ - INFO - Search_Auto command requested by عمرو.
+2023-11-27 04:21:22,780 - __main__ - INFO - Search_Auto command requested by عمرو.
+2023-11-27 04:21:27,945 - __main__ - INFO - Search_Auto command requested by عمرو.
+2023-11-27 04:21:39,697 - __main__ - INFO - Search_Auto command requested by عمرو.
+2023-11-27 04:21:49,417 - __main__ - INFO - Search_Auto command requested by عمرو.
+2023-11-27 04:21:53,218 - __main__ - INFO - Search_Auto command requested by عمرو.
+2023-11-27 04:21:58,402 - __main__ - INFO - Search_Auto command requested by عمرو.
+2023-11-27 04:23:02,287 - __main__ - INFO - Search_Auto command requested by عمرو.
+2023-11-27 04:25:16,392 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 04:25:16] "HEAD / HTTP/1.1" 200 -
+2023-11-27 04:26:38,040 - __main__ - INFO - Search_Auto command requested by عمرو.
+2023-11-27 04:26:41,776 - __main__ - INFO - Search_Auto command requested by عمرو.
+2023-11-27 04:26:45,139 - __main__ - INFO - Search_Auto command requested by عمرو.
+2023-11-27 04:26:47,244 - __main__ - INFO - Search_Auto command requested by عمرو.
+2023-11-27 04:26:53,677 - __main__ - INFO - Search_Auto command requested by عمرو.
+2023-11-27 04:27:03,516 - __main__ - INFO - Search_Auto command requested by عمرو.
+2023-11-27 04:27:06,165 - __main__ - INFO - Search_Auto command requested by عمرو.
+2023-11-27 04:27:13,475 - __main__ - INFO - Search_Auto command requested by عمرو.
+2023-11-27 04:30:16,225 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 04:30:16] "HEAD / HTTP/1.1" 200 -
+2023-11-27 04:35:16,160 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 04:35:16] "HEAD / HTTP/1.1" 200 -
+2023-11-27 04:40:16,394 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 04:40:16] "HEAD / HTTP/1.1" 200 -
+2023-11-27 04:45:16,409 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 04:45:16] "HEAD / HTTP/1.1" 200 -
+2023-11-27 04:50:16,197 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 04:50:16] "HEAD / HTTP/1.1" 200 -
+2023-11-27 04:55:16,263 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 04:55:16] "HEAD / HTTP/1.1" 200 -
+2023-11-27 05:00:16,490 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 05:00:16] "HEAD / HTTP/1.1" 200 -
+2023-11-27 05:05:16,288 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 05:05:16] "HEAD / HTTP/1.1" 200 -
+2023-11-27 05:10:16,233 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 05:10:16] "HEAD / HTTP/1.1" 200 -
+2023-11-27 05:15:16,241 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 05:15:16] "HEAD / HTTP/1.1" 200 -
+2023-11-27 05:20:16,411 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 05:20:16] "HEAD / HTTP/1.1" 200 -
+2023-11-27 05:25:16,507 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 05:25:16] "HEAD / HTTP/1.1" 200 -
+2023-11-27 05:30:16,411 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 05:30:16] "HEAD / HTTP/1.1" 200 -
+2023-11-27 05:35:16,364 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 05:35:16] "HEAD / HTTP/1.1" 200 -
+2023-11-27 05:40:16,237 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 05:40:16] "HEAD / HTTP/1.1" 200 -
+2023-11-27 07:46:06,973 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.197.97:8080
+2023-11-27 07:46:06,977 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-27 07:46:07,371 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 07:46:07] "[33mOPTIONS * HTTP/1.1[0m" 404 -
+2023-11-27 07:46:07,437 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 07:46:07] "HEAD / HTTP/1.1" 200 -
+2023-11-27 07:46:08,676 - telegram.ext.Application - INFO - Application started
+2023-11-27 07:50:48,149 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 07:50:48] "HEAD / HTTP/1.1" 200 -
+2023-11-27 07:55:48,206 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 07:55:48] "HEAD / HTTP/1.1" 200 -
+2023-11-27 08:00:48,235 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 08:00:48] "HEAD / HTTP/1.1" 200 -
+2023-11-27 08:05:48,407 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 08:05:48] "HEAD / HTTP/1.1" 200 -
+2023-11-27 08:10:48,347 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 08:10:48] "HEAD / HTTP/1.1" 200 -
+2023-11-27 08:22:53,640 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 08:22:53] "HEAD / HTTP/1.1" 200 -
+2023-11-27 08:27:53,191 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 08:27:53] "HEAD / HTTP/1.1" 200 -
+2023-11-27 08:32:53,231 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 08:32:53] "HEAD / HTTP/1.1" 200 -
+2023-11-27 08:37:53,181 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 08:37:53] "HEAD / HTTP/1.1" 200 -
+2023-11-27 08:53:47,090 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.196.171:8080
+2023-11-27 08:53:47,095 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-27 08:53:47,252 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 08:53:47] "[33mOPTIONS * HTTP/1.1[0m" 404 -
+2023-11-27 08:53:47,275 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 08:53:47] "HEAD / HTTP/1.1" 200 -
+2023-11-27 08:53:48,085 - telegram.ext.Application - INFO - Application started
+2023-11-27 08:58:33,210 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 08:58:33] "HEAD / HTTP/1.1" 200 -
+2023-11-27 09:03:33,321 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 09:03:33] "HEAD / HTTP/1.1" 200 -
+2023-11-27 09:08:33,148 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 09:08:33] "HEAD / HTTP/1.1" 200 -
+2023-11-27 09:10:09,585 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 09:10:09] "GET / HTTP/1.1" 200 -
+2023-11-27 09:10:17,615 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 09:10:17] "GET / HTTP/1.1" 200 -
+2023-11-27 09:13:55,877 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.196.215:8080
+2023-11-27 09:13:55,881 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-27 09:13:55,945 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 09:13:55] "[33mOPTIONS * HTTP/1.1[0m" 404 -
+2023-11-27 09:13:55,959 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 09:13:55] "GET / HTTP/1.1" 200 -
+2023-11-27 09:13:56,655 - telegram.ext.Application - INFO - Application started
+2023-11-27 09:14:00,898 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 09:14:00] "GET / HTTP/1.1" 200 -
+2023-11-27 09:14:23,698 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 09:14:23] "GET / HTTP/1.1" 200 -
+2023-11-27 09:18:37,348 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.196.22:8080
+2023-11-27 09:18:37,349 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-27 09:18:37,546 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 09:18:37] "[33mOPTIONS * HTTP/1.1[0m" 404 -
+2023-11-27 09:18:37,642 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 09:18:37] "GET / HTTP/1.1" 200 -
+2023-11-27 09:18:38,840 - telegram.ext.Application - INFO - Application started
+2023-11-27 09:18:38,938 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 09:18:38] "GET / HTTP/1.1" 200 -
+2023-11-27 09:19:36,436 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.196.69:8080
+2023-11-27 09:19:36,437 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-27 09:19:36,944 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 09:19:36] "[33mOPTIONS * HTTP/1.1[0m" 404 -
+2023-11-27 09:19:37,006 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 09:19:37] "[33mOPTIONS * HTTP/1.1[0m" 404 -
+2023-11-27 09:19:37,030 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 09:19:36] "GET / HTTP/1.1" 200 -
+2023-11-27 09:19:37,085 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 09:19:37] "HEAD / HTTP/1.1" 200 -
+2023-11-27 09:19:37,729 - telegram.ext.Application - INFO - Application started
+2023-11-27 09:19:38,119 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 09:19:38] "GET / HTTP/1.1" 200 -
+2023-11-27 09:24:23,303 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 09:24:23] "HEAD / HTTP/1.1" 200 -
+2023-11-27 09:29:23,380 - werkzeug - INFO - 172.31.196.1 - - [27/Nov/2023 09:29:23] "HEAD / HTTP/1.1" 200 -

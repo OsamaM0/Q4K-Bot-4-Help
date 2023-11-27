@@ -1,0 +1,62 @@
+Code,Course Name,Credirs,Group Name,Preq,Department
+CS101,Introduction to Computer Science,3,BcompR,0,is
+CS141,Programming Fundamentals,3,BcompR,CS101,is
+CS211,Data Structures and Algorithms,3,BcompR,CS241,is
+CS221,Computer Architecture,3,BcompR,"CS141,CS201",is
+CS241,Object-Oriented Programming,3,BcompR,CS141,is
+CS251,Computer Graphics Fundamental,3,BcompR,"CS101,CS201",is
+CS261,Artificial Intelligence,3,BcompR,"CS101,CS201",is
+CS322,Operating Systems,3,BcompR,CS221,is
+CS391,Software Engineering,3,BcompR,CS211,is
+IS101,Foundations of Information Systems,3,BcompR,CS101,is
+IS211,Databases,3,BcompR,IS101,is
+IT251,Data Communications,3,BcompR,CS101,is
+IT351,Computer Networks,3,BcompR,IT251,is
+HU121,Social Context of Computing,2,HumanityE,0,is
+HU122,Intellectual Property,2,HumanityE,0,is
+HU131,Business Administration,2,HumanityE,0,is
+HU132,Interpersonal Communication,2,HumanityE,0,is
+HU133,Computing Economics,2,HumanityE,0,is
+HU154,Scientific Thinking,2,HumanityE,0,is
+HU231,Organizational Behavior,2,HumanityE,0,is
+HU111,General English Language,2,HumanityR,0,is
+HU134,Technical Writing,2,HumanityR,HU111,is
+HU141,Computer Law,2,HumanityR,0,is
+HU142,Human rights and anti-corruption,2,HumanityR,0,is
+CS201,Discrete Structures,3,ScienceR,MA101,is
+EE101,Electronics,3,ScienceR,0,is
+EE102,Digital logic and design,2,ScienceR,EE101,is
+MA101,Mathematics I,3,ScienceR,0,is
+MA102,Mathematics II,3,ScienceR,MA101,is
+MA201,Mathematics III,3,ScienceR,MA102,is
+MA202,Probability and Statistics,2,ScienceR,MA102,is
+MA203,Numerical Analysis,2,ScienceR,MA102,is
+PH101,Physics I,3,ScienceR,0,is
+IS411,DevOps Foundations,3,SpecialE,IS211,is
+IS413,Web Information Systems,3,SpecialE,"IS211,CS241",is
+IS417,Multimedia Databases,3,SpecialE,"IS211,CS241",is
+IS441,Quality Assurance of Information Systems,3,SpecialE,IS101,is
+IS442,Social Information Systems,3,SpecialE,"IS211,IS241",is
+IT372,E-commerce technology,3,SpecialE,"IS211,CS241",is
+IT411,Information Assurance and Security,3,SpecialE,IT351,is
+IT441,Enterprise Architecture,3,SpecialE,IT351,is
+MM304,Introduction to Multimedia Technology,3,SpecialE,CS241,is
+IS212,Introduction to Data Science,3,SpecialR,IS211,is
+IS231,File Management and Processing,3,SpecialR,CS211,is
+IS311,Geographical Information Systems,3,SpecialR,IS211,is
+IS313,Data Warehousing,3,SpecialR,IS211,is
+IS314,Information Security,3,SpecialR,IS101,is
+IS315,Semantic Web and Graph Databases,3,SpecialR,IS101,is
+IS316,Distributed and Object Databases,3,SpecialR,IS211,is
+IS317,Advanced Database,3,SpecialR,IS211,is
+IS341,Decision Support Systems,3,SpecialR,IS101,is
+IS414,Data Mining,3,SpecialR,"IS101,MA202",is
+IS415,Database Administration,3,SpecialR,IS211,is
+IS416,Transaction Processing,3,SpecialR,IS211,is
+IS418,Information retrieval,3,SpecialR,"IS211,IS231",is
+IS443,Data Modeling,3,SpecialR,IS211,is
+PRO401,Capstone Project 1,3,Training,0,is
+PRO402,Capstone Project 2,3,Training,PRO401,is
+TR304,Trainning,3,Training,0,is
+HU105,Social issues and human rights,0,University,0,is
+M000,Mathematics 0/Biology 0,0,UniversityX,0,is

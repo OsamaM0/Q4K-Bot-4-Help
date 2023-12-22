@@ -52,7 +52,7 @@ class CustomContext(CallbackContext[ExtBot, dict, ChatData, dict]):
           "There is no message associated with this context object.")
     self.chat_data.cache_data_per_user[self._user_id][key] = value
 
-  def reset_mssage_clicks(self, default_keys) -> None:
+  def reset_user_cache_data(self, default_keys) -> None:
     """
     Reset all values oef keys for the associated message to None.
     """

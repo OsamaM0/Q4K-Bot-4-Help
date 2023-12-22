@@ -115,7 +115,7 @@ def retrieve_data_advanced(file_path, condition, columne=None, similarity_thresh
     search_keywords = re.split(r'[&|-]', condition)
     # Remove empty strings (resulting from consecutive operators)
     search_keywords = list(filter(None, search_keywords))
-
+            
     # Get the operations between keywords
     operations = re.findall(r'[&|-]', condition)
 
@@ -153,7 +153,7 @@ def retrieve_data_advanced(file_path, condition, columne=None, similarity_thresh
 
 
     # Apply the mask to get the filtered data
-    filtered_rows = df[filter_mask].fillna('')
+    filtered_rows = df[filter_mask].fillna('').sort_values(by='Year', ascending=False).sort_values(by='Course Name')
 
     return filtered_rows
 

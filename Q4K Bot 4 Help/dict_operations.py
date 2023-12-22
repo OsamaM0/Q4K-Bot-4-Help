@@ -25,20 +25,24 @@ def get_last_non_none_key_and_value(input_dict: Dict[Any, Optional[Any]]) -> Opt
 def create_nested_dict(rows):
     nested_dict = {}
     old_key = rows[0]['Material Type'] if rows[0]['Course Type'] != "Exams" else rows[0]['Exams Type']
+    old_year = rows[0]['Year']
     i = 1
     for row in rows:
         course_name = row['Course Name']
         year = row['Year']
         course_type = row['Course Type']
         material_type = row['Material Type'] if row['Course Type'] != "Exams" else row['Exams Type']
-        if old_key == material_type:
+        if old_key == material_type and old_year == year:
             i +=1
         else:
             old_key = material_type
+            old_year = year
             i = 1
         lec_none = "Lec" if course_type == 'Lectures' else "Sec" if course_type == 'Sections' else "Exam"  if course_type == 'Exams' else ""
+        if row['Material Type'] == "Book": lec_none = "Book"
         lecture = f"{lec_none}{i}" if row['Lecture'] in  [None,"","nan"] else row["Lecture"]
-        link = "https://t.me/Q4K_Database/" + str(row['File ID'])
+        link = row["File Link"]
+
 
         # Create or update the nested dictionary structure
         nested_dict.setdefault(course_name, {}).setdefault(year, {}).setdefault(course_type, {}).setdefault(material_type, []).append({lecture: link})

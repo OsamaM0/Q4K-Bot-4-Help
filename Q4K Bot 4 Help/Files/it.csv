@@ -1,69 +1,79 @@
-Code,Course Name,Credirs,Group Name,Preq,Department
-CS101,Introduction to Computer Science,3,BcompR,0,it
-CS141,Programming Fundamentals,3,BcompR,CS101,it
-CS211,Data Structures and Algorithms,3,BcompR,CS241,it
-CS221,Computer Architecture,3,BcompR,"CS141,CS201",it
-CS241,Object-Oriented Programming,3,BcompR,CS141,it
-CS251,Computer Graphics Fundamental,3,BcompR,"CS101,CS201",it
-CS261,Artificial Intelligence,3,BcompR,"CS101,CS201",it
-CS322,Operating Systems,3,BcompR,CS221,it
-CS391,Software Engineering,3,BcompR,CS211,it
-IS101,Foundations of Information Systems,3,BcompR,CS101,it
-IS211,Databases,3,BcompR,IS101,it
-IT251,Data Communications,3,BcompR,CS101,it
-IT351,Computer Networks,3,BcompR,IT251,it
-HU121,Social Context of Computing,2,HumanityE,0,it
-HU122,Intellectual Property,2,HumanityE,0,it
-HU131,Business Administration,2,HumanityE,0,it
-HU132,Interpersonal Communication,2,HumanityE,0,it
-HU133,Computing Economics,2,HumanityE,0,it
-HU154,Scientific Thinking,2,HumanityE,0,it
-HU231,Organizational Behavior,2,HumanityE,0,it
-HU111,General English Language,2,HumanityR,0,it
-HU134,Technical Writing,2,HumanityR,HU111,it
-HU141,Computer Law,2,HumanityR,0,it
-HU142,Human rights and anti-corruption,2,HumanityR,0,it
-CS201,Discrete Structures,3,ScienceR,MA101,it
-EE101,Electronics,3,ScienceR,0,it
-EE102,Digital logic and design,2,ScienceR,EE101,it
-MA101,Mathematics I,3,ScienceR,0,it
-MA102,Mathematics II,3,ScienceR,MA101,it
-MA201,Mathematics III,3,ScienceR,MA102,it
-MA202,Probability and Statistics,2,ScienceR,MA102,it
-MA203,Numerical Analysis,2,ScienceR,MA102,it
-PH101,Physics I,3,ScienceR,0,it
-CS332,Parallel Computation,3,SpecialE,"CS311,CS221",it
-CS422,Advanced Computer Architecture,3,SpecialE,CS221,it
-CS432,Cloud Computing,3,SpecialE,CS322,it
-CS451,Computer Animation,3,SpecialE,CS352,it
-CS452,Computer Vision,3,SpecialE,CS352,it
-CS461,Intelligent Systems,3,SpecialE,CS261,it
-CS462,Machine Learning,3,SpecialE,CS261,it
-CS463,Pattern Recognition,3,SpecialE,CS261,it
-IS316,Distributed and Object Databases,3,SpecialE,IS211,it
-IS317,Advanced Database,3,SpecialE,IS211,it
-IT412,Ethical hacking for system administration,3,SpecialE,CS101,it
-IT442,Advanced programming for IT,3,SpecialE,IT351,it
-IT452,System Integration,3,SpecialE,IT351,it
-IT453,Virtual Instrumentation,3,SpecialE,IT452,it
-IT472,Scripting for system administration,3,SpecialE,IT351,it
-MM304,Introduction to Multimedia Technology,3,SpecialE,CS241,it
-CS331,Neural Networks,3,SpecialR,MA201,it
-CS352,Image Processing,3,SpecialR,CS251,it
-IT312,Digital Signal Processing,3,SpecialR,MA203,it
-IT332,Wireless and Mobile Computing,3,SpecialR,IT251,it
-IT333,Network Forensics,3,SpecialR,IT351,it
-IT371,Web Programming,3,SpecialR,"CS141,IT251",it
-IT372,E-commerce technology,3,SpecialR,"IS211,CS241",it
-IT413,Network Security,3,SpecialR,IT351,it
-IT431,Network Management,3,SpecialR,IT351,it
-IT441,Enterprise Architecture,3,SpecialR,IT351,it
-IT451,Network Analysis and Design,3,SpecialR,"IT351,MA202",it
-MM303,Virtual Reality,3,SpecialR,CS352,it
-MM311,Human Computer Interaction,3,SpecialR,CS352,it
-MM441,Speech Processing,3,SpecialR,IT312,it
-PRO401,Capstone Project 1,3,Training,0,it
-PRO402,Capstone Project 2,3,Training,PRO401,it
-TR304,Trainning,3,Training,0,it
-HU105,Social issues and human rights,0,University,0,it
-M000,Mathematics 0/Biology 0,0,UniversityX,0,it
+Code,Course Name,Credirs,Group Name,Preq,Department,Year,Semester
+CS101,Introduction to Computer Science,3,BcompR,0,it,First Year,First Semester
+EE101,Electronics,3,ScienceR,0,it,First Year,First Semester
+HU111,English Language I,2,HumanityR,0,it,First Year,First Semester
+HU131,Business Administration,2,HumanityE,0,it,First Year,First Semester
+HU152,History of Computing,2,HumanityR,0,it,First Year,First Semester
+M000,Mathematics 0/Biology 0,0,UniversityX,0,it,First Year,First Semester
+MA101,Mathematics I,3,ScienceR,0,it,First Year,First Semester
+PH101,Physics I,3,ScienceR,0,it,First Year,First Semester
+CS141,Programming Fundamentals,3,BcompR,CS101,it,First Year,Second Semester
+EE102,Digital logic and design,2,ScienceR,EE101,it,First Year,Second Semester
+HU112,English Language II,2,HumanityR,0,it,First Year,Second Semester
+HU132,Interpersonal Communication,2,HumanityE,0,it,First Year,Second Semester
+HU154,Scientific Thinking,1,HumanityE,0,it,First Year,Second Semester
+HU241,Computers and Ethics,1,HumanityE,0,it,First Year,Second Semester
+IS101,Foundations of Information Systems,3,BcompR,CS101,it,First Year,Second Semester
+MA102,Mathematics II,3,ScienceR,MA101,it,First Year,Second Semester
+CS201,Discrete Structures,3,ScienceR,MA101,it,Second Year,First Semester
+CS241,Object-Oriented Programming,3,BcompR,CS141,it,Second Year,First Semester
+IS211,Databases,3,BcompR,IS101,it,Second Year,First Semester
+IS231,Systems Analysis and Design,3,BcompR,IS101,it,Second Year,First Semester
+IT251,Data Communications,3,BcompR,CS101,it,Second Year,First Semester
+MA201,Mathematics III,3,ScienceR,MA102,it,Second Year,First Semester
+CS211,Data Structures and Algorithms,3,BcompR,CS241,it,Second Year,Second Semester
+CS221,Computer Architecture,3,BcompR,"CS141,CS201",it,Second Year,Second Semester
+CS301,Operation Reasearch,3,BcompR,0,it,Second Year,Second Semester
+EE201,Digital Signal Processing,2,ScienceR,"EE101,EE102",it,Second Year,Second Semester
+HU232,Technical Writing,2,HumanityR,HU111,it,Second Year,Second Semester
+IS221,Project Management,2,BcompR,"IS101,IS231",it,Second Year,Second Semester
+MA202,Probability and Statistics,2,ScienceR,MA102,it,Second Year,Second Semester
+CS351,Computer Graphics Fundamental,3,BcompR,"CS101,CS201",it,Third Year,First Semester
+CS391,Software Engineering,3,BcompR,CS211,it,Third Year,First Semester
+IS412,Distributed and Object Databases,3,SpecialE,IS211,it,Third Year,First Semester
+CS352,Image Processing,3,SpecialR,CS351,it,Third Year,First Semester
+IT431,Wireless and Mobile Computing,3,SpecialR,IT251,it,Third Year,First Semester
+IT271,Web Programming,3,SpecialR,"CS141,IT251",it,Third Year,First Semester
+IT351,Computer Networks,3,BcompR,IT251,it,Third Year,Second Semester
+IT471,E-commerce technology,3,SpecialR,"IS211,CS241",it,Third Year,Second Semester
+MM402,Virtual Reality,3,SpecialR,CS352,it,Third Year,Second Semester
+CS322,Operating Systems,3,BcompR,CS221,it,Third Year,Second Semester
+CS381,Software Development,3,BcompR,CS391,it,Third Year,Second Semester
+IS321,Advanced Project Management,3,BcompE,IS221,it,Third Year,Second Semester
+CS452,Computer Vision,3,SpecialE,CS352,it,Fourth Year,First Semester
+IT311,Network Security,3,SpecialR,IT351,it,Fourth Year,First Semester
+IT331,Network Management,3,SpecialR,IT351,it,Fourth Year,First Semester
+IT441,Enterprise Architecture,3,SpecialR,IT351,it,Fourth Year,First Semester
+IT451,Network Analysis and Design,3,SpecialR,"IT351,MA202",it,Fourth Year,First Semester
+PRO401,Capstone Project 1,3,Training,0,it,Fourth Year,First Semester
+PRO402,Capstone Project 2,3,Training,PRO401,it,Fourth Year,Second Semester
+CS261,Artificial Intelligence,3,BcompR,"CS101,CS201",it,,
+CS322,Operating Systems,3,BcompR,CS221,it,,
+HU231,Organizational Behavior,2,HumanityE,0,it,,
+HU134,Technical Writing,2,HumanityR,HU111,it,,
+MA203,Numerical Analysis,2,ScienceR,MA102,it,,
+CS332,Parallel Computation,3,SpecialE,"CS311,CS221",it,,
+CS422,Advanced Computer Architecture,3,SpecialE,CS221,it,,
+CS432,Cloud Computing,3,SpecialE,CS322,it,,
+CS451,Computer Animation,3,SpecialE,CS352,it,,
+CS461,Intelligent Systems,3,SpecialE,CS261,it,,
+CS462,Machine Learning,3,SpecialE,CS261,it,,
+CS463,Pattern Recognition,3,SpecialE,CS261,it,,
+IS317,Advanced Database,3,SpecialE,IS211,it,,
+IT412,Ethical hacking for system administration,3,SpecialE,CS101,it,,
+IT442,Advanced programming for IT,3,SpecialE,IT351,it,,
+IT452,System Integration,3,SpecialE,IT351,it,,
+IT453,Virtual Instrumentation,3,SpecialE,IT452,it,,
+IT472,Scripting for system administration,3,SpecialE,IT351,it,,
+MM304,Introduction to Multimedia Technology,3,SpecialE,CS241,it,,
+CS331,Neural Networks,3,SpecialR,MA201,it,,
+IT333,Network Forensics,3,SpecialR,IT351,it,,
+MM311,Human Computer Interaction,3,SpecialR,CS352,it,,
+MM441,Speech Processing,3,SpecialR,IT312,it,,
+TR304,Trainning,3,Training,0,it,,
+HU105,Social issues and human rights,0,University,0,it,,
+HU121,Social Context of Computing,2,HumanityE,0,it,,
+HU122,Intellectual Property,2,HumanityE,0,it,,
+HU133,Computing Economics,2,HumanityE,0,it,,
+HU141,Computer Law,2,HumanityR,0,it,,
+HU142,Human rights and anti-corruption,2,HumanityR,0,it,,

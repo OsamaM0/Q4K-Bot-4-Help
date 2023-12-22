@@ -1,0 +1,36 @@
+Code,Course Name,Credirs,Group Name,Preq,Department,Year,Semester
+CS101,Introduction to Computer Science,3,BcompR,0,g,First Year,First Semester
+EE101,Electronics,3,ScienceR,0,g,First Year,First Semester
+HU111,English Language I,2,HumanityR,0,g,First Year,First Semester
+HU131,Business Administration,2,HumanityE,0,g,First Year,First Semester
+HU152,History of Computing,2,HumanityR,0,g,First Year,First Semester
+M000,Mathematics 0/Biology 0,0,UniversityX,0,g,First Year,First Semester
+MA101,Mathematics I,3,ScienceR,0,g,First Year,First Semester
+PH101,Physics I,3,ScienceR,0,g,First Year,First Semester
+CS201,Discrete Structures,3,ScienceR,MA101,g,Second Year,First Semester
+CS241,Object-Oriented Programming,3,BcompR,CS141,g,Second Year,First Semester
+IS211,Databases,3,BcompR,IS101,g,Second Year,First Semester
+IS231,Systems Analysis and Design,3,BcompR,IS101,g,Second Year,First Semester
+IT251,Data Communications,3,BcompR,CS101,g,Second Year,First Semester
+MA201,Mathematics III,3,ScienceR,MA102,g,Second Year,First Semester
+CS141,Programming Fundamentals,3,BcompR,CS101,g,First Year,Second Semester
+EE102,Digital logic and design,2,ScienceR,EE101,g,First Year,Second Semester
+HU112,English Language II,2,HumanityR,0,g,First Year,Second Semester
+HU132,Interpersonal Communication,2,HumanityE,0,g,First Year,Second Semester
+HU154,Scientific Thinking,1,HumanityE,0,g,First Year,Second Semester
+HU241,Computers and Ethics,1,HumanityE,0,g,First Year,Second Semester
+IS101,Foundations of Information Systems,3,BcompR,CS101,g,First Year,Second Semester
+MA102,Mathematics II,3,ScienceR,MA101,g,First Year,Second Semester
+CS211,Data Structures and Algorithms,3,BcompR,CS241,g,Second Year,Second Semester
+CS221,Computer Architecture,3,BcompR,"CS141,CS201",g,Second Year,Second Semester
+CS301,Operation Reasearch,3,BcompR,0,g,Second Year,Second Semester
+EE201,Digital Signal Processing,2,ScienceR,"EE101,EE102",g,Second Year,Second Semester
+HU232,Technical Writing,2,HumanityR,HU111,g,Second Year,Second Semester
+IS221,Project Management,2,BcompR,"IS101,IS231",g,Second Year,Second Semester
+MA202,Probability and Statistics,2,ScienceR,MA102,g,Second Year,Second Semester
+HU105,Social issues and human rights,0,University,0,g,,
+HU121,Social Context of Computing,2,HumanityE,0,g,,
+HU122,Intellectual Property,2,HumanityE,0,g,,
+HU133,Computing Economics,2,HumanityE,0,g,,
+HU141,Computer Law,2,HumanityR,0,g,,
+HU142,Human rights and anti-corruption,2,HumanityR,0,g,,

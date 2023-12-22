@@ -1,49 +1,148 @@
-File ID,User ID,Username,Current Date,Year,Academic year,Department,Semester,Course Lettar,Course Name,Course Type,Material Type,Exams Type
-81,5549398282,OSAMA_MO7,2023-11-22 10:16:51.061007,2024.0,CS,Fourth Year,First Semester,,,,,
-82,1135869415,shrouk23,2023-11-22 13:42:37.820864,2024.0,IT,Fourth Year,First Semester,E,Enterprise Architecture,Lectures,Slides,
-83,1135869415,shrouk23,2023-11-22 13:42:38.451330,2024.0,IT,Fourth Year,First Semester,E,Enterprise Architecture,Lectures,Slides,
-84,1135869415,shrouk23,2023-11-22 13:42:39.468521,2024.0,IT,Fourth Year,First Semester,E,Enterprise Architecture,Lectures,Slides,
-85,1135869415,shrouk23,2023-11-22 13:42:40.133419,2024.0,IT,Fourth Year,First Semester,E,Enterprise Architecture,Lectures,Slides,
-86,1135869415,shrouk23,2023-11-22 13:42:40.717818,2024.0,IT,Fourth Year,First Semester,E,Enterprise Architecture,Lectures,Slides,
-87,1135869415,shrouk23,2023-11-22 13:47:43.820971,2024.0,IT,Fourth Year,First Semester,E,Enterprise Architecture,Exams,,Final
-88,1135869415,shrouk23,2023-11-22 13:47:44.362646,2024.0,IT,Fourth Year,First Semester,E,Enterprise Architecture,Exams,,Final
-89,1135869415,shrouk23,2023-11-22 13:47:44.841998,2024.0,IT,Fourth Year,First Semester,E,Enterprise Architecture,Exams,,Final
-90,1135869415,shrouk23,2023-11-22 13:52:03.947901,2024.0,IT,Fourth Year,First Semester,E,Enterprise Architecture,Exams,,Practical
-91,1135869415,shrouk23,2023-11-22 13:52:22.260331,2024.0,IT,Fourth Year,First Semester,E,Enterprise Architecture,Exams,,Practical
-92,1135869415,shrouk23,2023-11-22 13:58:43.055082,2024.0,IT,Fourth Year,First Semester,N,Network Management,Exams,,Midterm
-93,1135869415,shrouk23,2023-11-22 13:59:40.611321,2024.0,IT,Fourth Year,First Semester,N,Network Management,,,Practical
-94,1135869415,shrouk23,2023-11-22 13:59:41.348508,2024.0,IT,Fourth Year,First Semester,N,Network Management,,,Practical
-95,1135869415,shrouk23,2023-11-22 13:59:42.090046,2024.0,IT,Fourth Year,First Semester,N,Network Management,,,Practical
-96,1135869415,shrouk23,2023-11-22 14:01:36.048425,2024.0,IT,Fourth Year,First Semester,N,Network Management,Sections,Summary,
-97,1135869415,shrouk23,2023-11-22 14:06:44.989694,2024.0,IT,Fourth Year,First Semester,N,,Exams,,Midterm
-98,1135869415,shrouk23,2023-11-22 14:08:09.477685,2024.0,IT,Fourth Year,First Semester,N,Network Security,Exams,,Practical
-100,1135869415,shrouk23,2023-11-22 14:13:00.836412,2024.0,IT,Fourth Year,First Semester,N,Network Security,Exams,,Practical
-101,1135869415,shrouk23,2023-11-22 15:22:36.933767,2024.0,IT,Fourth Year,First Semester,E,Enterprise Architecture,Lectures,Slides,
-110,5486303381,OsamaM0,2023-11-22 15:49:05.528022,,,,,,,,,
-111,1122159779,,2023-11-22 21:08:09.508233,2024.0,IT,Fourth Year,First Semester,E,Enterprise Architecture,Exams,,Final
-112,1122159779,,2023-11-22 21:08:10.164938,2024.0,IT,Fourth Year,First Semester,E,Enterprise Architecture,Exams,,Final
-113,1122159779,,2023-11-22 21:08:10.832337,2024.0,IT,Fourth Year,First Semester,E,Enterprise Architecture,Exams,,Final
-114,1122159779,,2023-11-22 21:08:11.438638,2024.0,IT,Fourth Year,First Semester,E,Enterprise Architecture,Exams,,Final
-115,1122159779,,2023-11-22 21:08:12.076183,2024.0,IT,Fourth Year,First Semester,E,Enterprise Architecture,Exams,,Final
-116,1122159779,,2023-11-22 21:08:12.728598,2024.0,IT,Fourth Year,First Semester,E,Enterprise Architecture,Exams,,Final
-117,1122159779,,2023-11-22 21:08:13.368306,2024.0,IT,Fourth Year,First Semester,E,Enterprise Architecture,Exams,,Final
-118,1122159779,,2023-11-22 21:08:14.028183,2024.0,IT,Fourth Year,First Semester,E,Enterprise Architecture,Exams,,Final
-119,1122159779,,2023-11-22 21:08:14.626967,2024.0,IT,Fourth Year,First Semester,E,Enterprise Architecture,Exams,,Final
-120,1122159779,,2023-11-22 21:08:15.276230,2024.0,IT,Fourth Year,First Semester,E,Enterprise Architecture,Exams,,Final
-121,1122159779,,2023-11-22 21:08:15.929255,2024.0,IT,Fourth Year,First Semester,E,Enterprise Architecture,Exams,,Final
-122,1122159779,,2023-11-22 21:08:16.632804,2024.0,IT,Fourth Year,First Semester,E,Enterprise Architecture,Exams,,Final
-123,1122159779,,2023-11-22 21:08:17.248018,2024.0,IT,Fourth Year,First Semester,E,Enterprise Architecture,Exams,,Final
-136,5549398282,OSAMA_MO7,2023-11-23 04:18:07.730294,2022.0,,,,,,,,
-138,1394038059,,2023-11-23 16:54:02.198902,2024.0,Fourth Year,IS,First Semester,I,Introduction to Multimedia Technology,Lectures,Slides,
-139,1394038059,,2023-11-23 16:54:02.811577,2024.0,Fourth Year,IS,First Semester,I,Introduction to Multimedia Technology,Lectures,Slides,
-140,1394038059,,2023-11-23 16:54:03.462226,2024.0,Fourth Year,IS,First Semester,I,Introduction to Multimedia Technology,Lectures,Slides,
-141,1394038059,,2023-11-23 16:54:04.030751,2024.0,Fourth Year,IS,First Semester,I,Introduction to Multimedia Technology,Lectures,Slides,
-142,1394038059,,2023-11-23 16:54:04.607730,2024.0,Fourth Year,IS,First Semester,I,Introduction to Multimedia Technology,Lectures,Slides,
-143,1394038059,,2023-11-23 16:54:05.197168,2024.0,Fourth Year,IS,First Semester,I,Introduction to Multimedia Technology,Lectures,Slides,
-145,1394038059,,2023-11-23 19:57:59.163022,2024.0,Fourth Year,IS,First Semester,D,Data Mining,Lectures,Slides,
-146,1394038059,,2023-11-23 19:57:59.855047,2024.0,Fourth Year,IS,First Semester,D,Data Mining,Lectures,Slides,
-147,1394038059,,2023-11-23 19:58:00.525102,2024.0,Fourth Year,IS,First Semester,D,Data Mining,Lectures,Slides,
-149,1135869415,shrouk23,2023-11-23 20:31:56.773973,2024.0,Fourth Year,IT,First Semester,E,Enterprise Architecture,Lectures,,Final
-154,5486303381,OsamaM0,2023-11-24 11:18:52.618330,,,,,,,Exams,,
-158,5781615650,,2023-11-24 14:59:56.468212,,,,,,,,,
-162,5486303381,OsamaM0,2023-11-24 22:26:29.960889,2023.0,Second Year,G,First Semester,K,Knowledge Base Systems,Sections,Record,Final
+File ID,File Link,User ID,Username,Current Date,Year,Department,Academic year,Semester,Course Name,Course Type,Material Type,Lecture,Exams Type
+81,https://t.me/Q4K_Database/81,5549398282,OSAMA_MO7,2023-11-22 10:16:51.061007,2024,CS,Fourth Year,First Semester,,,,,
+82,https://t.me/Q4K_Database/82,1135869415,shrouk23,2023-11-22 13:42:37.820864,2024,IT,Fourth Year,First Semester,Enterprise Architecture,Lectures,Slide,Lec,
+83,https://t.me/Q4K_Database/83,1135869415,shrouk23,2023-11-22 13:42:38.451330,2024,IT,Fourth Year,First Semester,Enterprise Architecture,Lectures,Slide,Lec,
+84,https://t.me/Q4K_Database/84,1135869415,shrouk23,2023-11-22 13:42:39.468521,2024,IT,Fourth Year,First Semester,Enterprise Architecture,Lectures,Slide,Lec,
+85,https://t.me/Q4K_Database/85,1135869415,shrouk23,2023-11-22 13:42:40.133419,2024,IT,Fourth Year,First Semester,Enterprise Architecture,Lectures,Slide,Lec,
+86,https://t.me/Q4K_Database/86,1135869415,shrouk23,2023-11-22 13:42:40.717818,2024,IT,Fourth Year,First Semester,Enterprise Architecture,Lectures,Slide,Lec,
+87,https://t.me/Q4K_Database/87,1135869415,shrouk23,2023-11-22 13:47:43.820971,2024,IT,Fourth Year,First Semester,Enterprise Architecture,Exams,,,Final
+88,https://t.me/Q4K_Database/88,1135869415,shrouk23,2023-11-22 13:47:44.362646,2024,IT,Fourth Year,First Semester,Enterprise Architecture,Exams,,,Final
+89,https://t.me/Q4K_Database/89,1135869415,shrouk23,2023-11-22 13:47:44.841998,2024,IT,Fourth Year,First Semester,Enterprise Architecture,Exams,,,Final
+90,https://t.me/Q4K_Database/90,1135869415,shrouk23,2023-11-22 13:52:03.947901,2024,IT,Fourth Year,First Semester,Enterprise Architecture,Exams,,,Practical
+91,https://t.me/Q4K_Database/91,1135869415,shrouk23,2023-11-22 13:52:22.260331,2024,IT,Fourth Year,First Semester,Enterprise Architecture,Exams,,,Practical
+92,https://t.me/Q4K_Database/92,1135869415,shrouk23,2023-11-22 13:58:43.055082,2024,IT,Fourth Year,First Semester,Network Management,Exams,,,Midterm
+93,https://t.me/Q4K_Database/93,1135869415,shrouk23,2023-11-22 13:59:40.611321,2024,IT,Fourth Year,First Semester,Network Management,Exams,,,Practical
+94,https://t.me/Q4K_Database/94,1135869415,shrouk23,2023-11-22 13:59:41.348508,2024,IT,Fourth Year,First Semester,Network Management,Exams,,,Practical
+95,https://t.me/Q4K_Database/95,1135869415,shrouk23,2023-11-22 13:59:42.090046,2024,IT,Fourth Year,First Semester,Network Management,Exams,,,Practical
+96,https://t.me/Q4K_Database/96,1135869415,shrouk23,2023-11-22 14:01:36.048425,2024,IT,Fourth Year,First Semester,Network Management,Sections,Summary,Lec,
+97,https://t.me/Q4K_Database/97,1135869415,shrouk23,2023-11-22 14:06:44.989694,2024,IT,Fourth Year,First Semester,,Exams,,,Midterm
+98,https://t.me/Q4K_Database/98,1135869415,shrouk23,2023-11-22 14:08:09.477685,2024,IT,Fourth Year,First Semester,Network Security,Exams,,,Practical
+100,https://t.me/Q4K_Database/100,1135869415,shrouk23,2023-11-22 14:13:00.836412,2024,IT,Fourth Year,First Semester,Network Security,Exams,,,Practical
+101,https://t.me/Q4K_Database/101,1135869415,shrouk23,2023-11-22 15:22:36.933767,2024,IT,Fourth Year,First Semester,Enterprise Architecture,Lectures,Slide,Lec,
+111,https://t.me/Q4K_Database/111,1122159779,,2023-11-22 21:08:09.508233,2024,IT,Fourth Year,First Semester,Enterprise Architecture,Exams,,,Final
+138,https://t.me/Q4K_Database/138,1394038059,,2023-11-23 16:54:02.198902,2024,Fourth Year,IS,First Semester,Introduction to Multimedia Technology,Lectures,Slide,Lec,
+139,https://t.me/Q4K_Database/139,1394038059,,2023-11-23 16:54:02.811577,2024,Fourth Year,IS,First Semester,Introduction to Multimedia Technology,Lectures,Slide,Lec,
+140,https://t.me/Q4K_Database/140,1394038059,,2023-11-23 16:54:03.462226,2024,Fourth Year,IS,First Semester,Introduction to Multimedia Technology,Lectures,Slide,Lec,
+141,https://t.me/Q4K_Database/141,1394038059,,2023-11-23 16:54:04.030751,2024,Fourth Year,IS,First Semester,Introduction to Multimedia Technology,Lectures,Slide,Lec,
+142,https://t.me/Q4K_Database/142,1394038059,,2023-11-23 16:54:04.607730,2024,Fourth Year,IS,First Semester,Introduction to Multimedia Technology,Lectures,Slide,Lec,
+143,https://t.me/Q4K_Database/143,1394038059,,2023-11-23 16:54:05.197168,2024,Fourth Year,IS,First Semester,Introduction to Multimedia Technology,Lectures,Slide,Lec,
+145,https://t.me/Q4K_Database/145,1394038059,,2023-11-23 19:57:59.163022,2024,Fourth Year,IS,First Semester,Data Mining,Lectures,Slide,Lec,
+146,https://t.me/Q4K_Database/146,1394038059,,2023-11-23 19:57:59.855047,2024,Fourth Year,IS,First Semester,Data Mining,Lectures,Slide,Lec,
+147,https://t.me/Q4K_Database/147,1394038059,,2023-11-23 19:58:00.525102,2024,Fourth Year,IS,First Semester,Data Mining,Lectures,Slide,Lec,
+204,https://t.me/Q4K_Database/204,5486303381,OsamaM0,2023-11-26 10:29:41.337611,2024,Fourth Year,CS,First Semester,Computer Vision,Lectures,Slide,Lec1,
+205,https://t.me/Q4K_Database/205,5486303381,OsamaM0,2023-11-26 10:29:41.545390,2024,Fourth Year,CS,First Semester,Computer Vision,Lectures,Slide,Lec2,
+206,https://t.me/Q4K_Database/206,5486303381,OsamaM0,2023-11-26 10:29:41.914142,2024,Fourth Year,CS,First Semester,Computer Vision,Lectures,Slide,Lec3,
+207,https://t.me/Q4K_Database/207,5486303381,OsamaM0,2023-11-26 10:29:42.236537,2024,Fourth Year,CS,First Semester,Computer Vision,Lectures,Slide,Lec4,
+208,https://t.me/Q4K_Database/208,5486303381,OsamaM0,2023-11-26 10:29:42.426785,2024,Fourth Year,CS,First Semester,Computer Vision,Lectures,Slide,Lec5,
+253,https://t.me/Q4K_Database/253,5486303381,OsamaM0,2023-11-27 10:49:42.401791,2024,CS,Fourth Year,First Semester,Computer Vision,Lectures,Slide,Lec0,
+258,https://t.me/Q4K_Database/258,5486303381,OsamaM0,2023-11-27 11:38:19.648967,2021,CS,Fourth Year,First Semester,Computer Vision,Exams,,,Final
+259,https://t.me/Q4K_Database/259,5486303381,OsamaM0,2023-11-27 11:38:23.903034,2021,CS,Fourth Year,First Semester,Computer Vision,Exams,,,Final
+260,https://t.me/Q4K_Database/260,5486303381,OsamaM0,2023-11-27 11:43:14.284034,2019,CS,Fourth Year,First Semester,Computer Vision,Exams,,,Final
+261,https://t.me/Q4K_Database/261,5486303381,OsamaM0,2023-11-27 11:43:14.506100,2019,CS,Fourth Year,First Semester,Computer Vision,Exams,,,Final
+271,https://t.me/Q4K_Database/271,1394038059,,2023-11-27 13:14:05.427324,2024,IS,Fourth Year,First Semester,Analysis and Design of Information Systems,Lectures,Slide,Lec1,
+272,https://t.me/Q4K_Database/272,1394038059,,2023-11-27 13:14:05.642149,2024,IS,Fourth Year,First Semester,Analysis and Design of Information Systems,Lectures,Slide,Lec2,
+273,https://t.me/Q4K_Database/273,1394038059,,2023-11-27 13:14:05.925914,2024,IS,Fourth Year,First Semester,Analysis and Design of Information Systems,Lectures,Slide,Lec3,
+274,https://t.me/Q4K_Database/274,1394038059,,2023-11-27 13:14:06.223442,2024,IS,Fourth Year,First Semester,Analysis and Design of Information Systems,Lectures,Slide,Lec4,
+275,https://t.me/Q4K_Database/275,1394038059,,2023-11-27 13:14:06.463200,2024,IS,Fourth Year,First Semester,Analysis and Design of Information Systems,Lectures,Slide,Lec5,
+276,https://t.me/Q4K_Database/276,1394038059,,2023-11-27 13:14:10.750911,2024,IS,Fourth Year,First Semester,Analysis and Design of Information Systems,Lectures,Slide,Lec6,
+277,https://t.me/Q4K_Database/277,1394038059,,2023-11-27 13:14:10.986926,2024,IS,Fourth Year,First Semester,Analysis and Design of Information Systems,Lectures,Slide,Lec7,
+278,https://t.me/Q4K_Database/278,1394038059,,2023-11-27 13:14:11.302730,2024,IS,Fourth Year,First Semester,Analysis and Design of Information Systems,Lectures,Slide,Lec8,
+279,https://t.me/Q4K_Database/279,1394038059,,2023-11-27 13:14:11.518749,2024,IS,Fourth Year,First Semester,Analysis and Design of Information Systems,Lectures,Slide,Lec9,
+280,https://t.me/Q4K_Database/280,1394038059,,2023-11-27 13:14:11.727815,2024,IS,Fourth Year,First Semester,Analysis and Design of Information Systems,Lectures,Slide,Lec10,
+293,https://t.me/Q4K_Database/293,5549398282,OSAMA_MO7,2023-11-27 15:43:43.893843,2024,CS,Fourth Year,First Semester,Computer Vision,Lectures,Book,,
+299,https://t.me/Q4K_Database/299,5549398282,OSAMA_MO7,2023-11-28 13:38:57.781362,2024,CS,Fourth Year,First Semester,Computer Vision,Exams,,,Midterm
+300,https://t.me/Q4K_Database/300,5549398282,OSAMA_MO7,2023-11-28 13:38:58.061670,2024,CS,Fourth Year,First Semester,Computer Vision,Exams,,,Midterm
+304,https://t.me/Q4K_Database/304,1019033116,Mohamedrabie17,2023-11-28 14:55:20.938881,2024,CS,First Year,First Semester,Mathematics I,Exams,,,Midterm
+305,https://t.me/Q4K_Database/305,1019033116,Mohamedrabie17,2023-11-28 14:56:48.279579,2024,CS,First Year,First Semester,Mathematics I,Exams,,,Final
+307,https://t.me/Q4K_Database/307,1135869415,shrouk23,2023-11-28 17:35:26.171590,2024,IT,Fourth Year,First Semester,Enterprise Architecture,Lectures,Book,,
+308,https://t.me/Q4K_Database/308,1135869415,shrouk23,2023-11-28 17:43:39.940756,2024,IT,Fourth Year,First Semester,Network Analysis and Design,Exams,,,Midterm
+310,https://t.me/Q4K_Database/310,1135869415,shrouk23,2023-11-28 17:44:34.269192,2024,IT,Fourth Year,First Semester,Network Analysis and Design,Lectures,Book,,
+311,https://t.me/Q4K_Database/311,1232178602,abduallhamohamed,2023-11-28 18:27:08.023378,2024,CS,Fourth Year,First Semester,Compiler Construction,Lectures,Slide,Lec1,
+312,https://t.me/Q4K_Database/312,1232178602,abduallhamohamed,2023-11-28 18:29:18.592368,2024,CS,Fourth Year,First Semester,Compiler Construction,Lectures,Slide,Lec2,
+314,https://t.me/Q4K_Database/314,1232178602,abduallhamohamed,2023-11-28 18:34:18.195064,2024,CS,Fourth Year,First Semester,Compiler Construction,Lectures,Slide,Lec3,
+315,https://t.me/Q4K_Database/315,1232178602,abduallhamohamed,2023-11-28 19:33:37.714430,2024,CS,Fourth Year,First Semester,Compiler Construction,Lectures,Slide,Lec4,
+316,https://t.me/Q4K_Database/316,1232178602,abduallhamohamed,2023-11-28 19:35:03.244372,2024,CS,Fourth Year,First Semester,Compiler Construction,Lectures,Slide,Lec5,
+317,https://t.me/Q4K_Database/317,1232178602,abduallhamohamed,2023-11-28 19:38:03.177467,2024,CS,Fourth Year,First Semester,Compiler Construction,Lectures,Video,Lec5,
+318,https://t.me/Q4K_Database/318,1232178602,abduallhamohamed,2023-11-28 19:38:03.818534,2024,,Fourth Year,,,,,,
+319,https://t.me/Q4K_Database/319,1232178602,abduallhamohamed,2023-11-28 19:40:34.607730,2024,CS,Fourth Year,First Semester,Compiler Construction,Exams,,,Midterm
+320,https://t.me/Q4K_Database/320,1232178602,abduallhamohamed,2023-11-28 19:47:07.537234,2024,CS,Fourth Year,First Semester,Compiler Construction,Exams,,,Midterm
+321,https://t.me/Q4K_Database/321,1232178602,abduallhamohamed,2023-11-28 19:48:12.559118,2024,CS,Fourth Year,First Semester,Compiler Construction,Exams,,,Midterm
+322,https://t.me/Q4K_Database/322,1232178602,abduallhamohamed,2023-11-28 19:48:12.830909,2024,CS,Fourth Year,First Semester,Compiler Construction,Exams,,,Midterm
+323,https://t.me/Q4K_Database/323,1232178602,abduallhamohamed,2023-11-28 19:50:09.487007,2024,CS,Fourth Year,,,,,,
+324,https://t.me/Q4K_Database/324,1232178602,abduallhamohamed,2023-11-28 19:51:03.344842,2024,CS,Fourth Year,First Semester,Compiler Construction,Exams,,,Final
+325,https://t.me/Q4K_Database/325,1232178602,abduallhamohamed,2023-11-28 19:51:03.653990,2024,CS,Fourth Year,First Semester,Compiler Construction,Exams,,,Final
+326,https://t.me/Q4K_Database/326,1232178602,abduallhamohamed,2023-11-28 19:52:01.003501,2024,CS,Fourth Year,First Semester,Compiler Construction,Exams,,,Final
+327,https://t.me/Q4K_Database/327,1232178602,abduallhamohamed,2023-11-28 19:54:40.781989,2024,CS,Fourth Year,First Semester,Compiler Construction,Lectures,Summary,Lec0,
+329,https://t.me/Q4K_Database/329,5549398282,OSAMA_MO7,2023-11-28 21:03:06.626000,2024,CS,Fourth Year,First Semester,Compiler Construction,Lectures,Video,Lec2,
+330,https://t.me/Q4K_Database/330,1400789344,HeshamAhmedsoliman,2023-11-28 21:47:44.023398,2024,CS,Fourth Year,First Semester,Computer Vision,Exams,,,Midterm
+331,https://t.me/Q4K_Database/331,1400789344,HeshamAhmedsoliman,2023-11-28 21:47:44.219509,2024,CS,Fourth Year,First Semester,Computer Vision,Exams,,,Midterm
+335,https://t.me/Q4K_Database/335,5549398282,OSAMA_MO7,2023-11-29 06:37:35.640618,2024,CS,Fourth Year,First Semester,Compiler Construction,Lectures,Video,Lec1,
+344,https://t.me/Q4K_Database/344,5549398282,OSAMA_MO7,2023-11-29 17:35:12.178449,2021,CS,Fourth Year,First Semester,Wireless and Mobile Computing,Exams,,,Midterm
+345,https://t.me/Q4K_Database/345,5549398282,OSAMA_MO7,2023-11-29 17:35:12.504838,2021,CS,Fourth Year,First Semester,Wireless and Mobile Computing,Exams,,,Midterm
+346,https://t.me/Q4K_Database/346,5549398282,OSAMA_MO7,2023-11-29 17:36:16.342328,2021,CS,Fourth Year,First Semester,Wireless and Mobile Computing,Exams,,,Final
+347,https://t.me/Q4K_Database/347,5549398282,OSAMA_MO7,2023-11-29 17:36:16.741505,2021,CS,Fourth Year,First Semester,Wireless and Mobile Computing,Exams,,,Final
+348,https://t.me/Q4K_Database/348,5549398282,OSAMA_MO7,2023-11-29 17:36:17.149777,2021,CS,Fourth Year,First Semester,Wireless and Mobile Computing,Exams,,,Final
+349,https://t.me/Q4K_Database/349,5549398282,OSAMA_MO7,2023-11-29 17:37:25.478968,2019,CS,Fourth Year,First Semester,Wireless and Mobile Computing,Exams,,,Final
+350,https://t.me/Q4K_Database/350,5549398282,OSAMA_MO7,2023-11-29 17:37:25.850592,2019,CS,Fourth Year,First Semester,Wireless and Mobile Computing,Exams,,,Final
+352,https://t.me/Q4K_Database/352,5549398282,OSAMA_MO7,2023-11-29 20:30:06.828033,2024,CS,Fourth Year,First Semester,Wireless and Mobile Computing,Lectures,Slide,Lec1,
+353,https://t.me/Q4K_Database/353,5549398282,OSAMA_MO7,2023-11-29 20:30:07.186061,2024,CS,Fourth Year,First Semester,Wireless and Mobile Computing,Lectures,Slide,Lec2,
+354,https://t.me/Q4K_Database/354,5549398282,OSAMA_MO7,2023-11-29 20:30:07.486995,2024,CS,Fourth Year,First Semester,Wireless and Mobile Computing,Lectures,Slide,Lec3,
+355,https://t.me/Q4K_Database/355,5549398282,OSAMA_MO7,2023-11-29 20:30:07.727380,2024,CS,Fourth Year,First Semester,Wireless and Mobile Computing,Lectures,Slide,Lec4,
+356,https://t.me/Q4K_Database/356,5549398282,OSAMA_MO7,2023-11-29 20:30:08.042599,2024,CS,Fourth Year,First Semester,Wireless and Mobile Computing,Lectures,Slide,Lec5,
+365,https://t.me/Q4K_Database/365,5549398282,OSAMA_MO7,2023-11-29 20:32:06.390722,2024,CS,Fourth Year,First Semester,Wireless and Mobile Computing,Lectures,Slide,Lec6,
+367,https://t.me/Q4K_Database/367,1749998287,BenSobhy1,2023-11-30 07:33:47.401872,2024,CS,Fourth Year,First Semester,Wireless and Mobile Computing,Exams,,,Midterm
+368,https://t.me/Q4K_Database/368,1749998287,BenSobhy1,2023-11-30 07:33:47.765428,2024,CS,Fourth Year,First Semester,Wireless and Mobile Computing,Exams,,,Midterm
+369,https://t.me/Q4K_Database/369,1749998287,BenSobhy1,2023-11-30 07:33:48.028050,2024,CS,Fourth Year,First Semester,Wireless and Mobile Computing,Exams,,,Midterm
+370,https://t.me/Q4K_Database/370,1749998287,BenSobhy1,2023-11-30 07:33:48.359672,2024,CS,Fourth Year,First Semester,Wireless and Mobile Computing,Exams,,,Midterm
+371,https://t.me/Q4K_Database/371,1749998287,BenSobhy1,2023-11-30 07:33:48.663508,2024,CS,Fourth Year,First Semester,Wireless and Mobile Computing,Exams,,,Midterm
+372,https://t.me/Q4K_Database/372,1749998287,BenSobhy1,2023-11-30 07:33:52.997548,2024,CS,Fourth Year,First Semester,Wireless and Mobile Computing,Exams,,,Midterm
+373,https://t.me/Q4K_Database/373,1749998287,BenSobhy1,2023-11-30 07:33:53.303836,2024,CS,Fourth Year,First Semester,Wireless and Mobile Computing,Exams,,,Midterm
+374,https://t.me/Q4K_Database/374,1749998287,BenSobhy1,2023-11-30 07:33:53.536693,2024,CS,Fourth Year,First Semester,Wireless and Mobile Computing,Exams,,,Midterm
+375,https://t.me/Q4K_Database/375,1749998287,BenSobhy1,2023-11-30 07:33:53.788344,2024,CS,Fourth Year,First Semester,Wireless and Mobile Computing,Exams,,,Midterm
+376,https://t.me/Q4K_Database/376,1749998287,BenSobhy1,2023-11-30 07:33:54.101778,2024,CS,Fourth Year,First Semester,Wireless and Mobile Computing,Exams,,,Midterm
+377,https://t.me/Q4K_Database/377,1749998287,BenSobhy1,2023-11-30 07:34:45.422200,2024,CS,Fourth Year,First Semester,Wireless and Mobile Computing,Exams,,,Final
+378,https://t.me/Q4K_Database/378,1749998287,BenSobhy1,2023-11-30 07:34:45.650350,2024,CS,Fourth Year,First Semester,Wireless and Mobile Computing,Exams,,,Final
+385,https://t.me/Q4K_Database/385,5486303381,OsamaM0,2023-12-01 11:40:04.168721,2024,CS,Fourth Year,First Semester,Parallel Computation,Lectures,Slide,Lec1,
+386,https://t.me/Q4K_Database/386,5486303381,OsamaM0,2023-12-01 11:40:09.819377,2024,CS,Fourth Year,First Semester,Parallel Computation,Lectures,Slide,Lec2,
+387,https://t.me/Q4K_Database/387,5486303381,OsamaM0,2023-12-01 11:40:26.990219,2024,CS,Fourth Year,First Semester,Parallel Computation,Lectures,Slide,Lec3,
+388,https://t.me/Q4K_Database/388,5486303381,OsamaM0,2023-12-01 11:42:50.870575,2024,CS,Fourth Year,First Semester,Parallel Computation,Lectures,Slide,Lec4,
+389,https://t.me/Q4K_Database/389,5549398282,OSAMA_MO7,2023-12-01 12:07:01.513534,2024,CS,Fourth Year,First Semester,Parallel Computation,Sections,Slide,Lec1,
+390,https://t.me/Q4K_Database/390,5549398282,OSAMA_MO7,2023-12-01 12:07:37.565877,2024,CS,Fourth Year,First Semester,Parallel Computation,Sections,Slide,Lec3,
+391,https://t.me/Q4K_Database/391,5549398282,OSAMA_MO7,2023-12-01 12:08:19.634716,2024,CS,Fourth Year,First Semester,Parallel Computation,Sections,Video,Lec3,
+395,https://t.me/Q4K_Database/395,1135869415,shrouk23,2023-12-01 14:10:50.046166,2024,IT,Fourth Year,First Semester,Network Security,Sections,Slide,Lec1,
+396,https://t.me/Q4K_Database/396,1135869415,shrouk23,2023-12-01 14:10:50.324564,2024,IT,Fourth Year,First Semester,Network Security,Sections,Slide,Lec2,
+397,https://t.me/Q4K_Database/397,1135869415,shrouk23,2023-12-01 14:10:50.624457,2024,IT,Fourth Year,First Semester,Network Security,Sections,Slide,Lec3,
+398,https://t.me/Q4K_Database/398,1135869415,shrouk23,2023-12-01 14:13:54.182564,2024,IT,Fourth Year,First Semester,Network Security,Lectures,Slide,Lec1,
+399,https://t.me/Q4K_Database/399,1135869415,shrouk23,2023-12-01 14:14:23.571188,2024,IT,Fourth Year,First Semester,Network Security,Lectures,Slide,Lec2,
+400,https://t.me/Q4K_Database/400,1135869415,shrouk23,2023-12-01 14:15:01.056692,2024,IT,Fourth Year,First Semester,Network Security,Lectures,Slide,Lec3,
+401,https://t.me/Q4K_Database/401,1135869415,shrouk23,2023-12-01 14:15:39.058462,2024,IT,Fourth Year,First Semester,Network Security,Lectures,Slide,Lec4,
+402,https://t.me/Q4K_Database/402,1135869415,shrouk23,2023-12-01 14:15:39.345855,2024,IT,Fourth Year,First Semester,Network Security,Lectures,Slide,L,
+404,https://t.me/Q4K_Database/404,5549398282,OSAMA_MO7,2023-12-01 17:52:11.132238,2020,CS,Fourth Year,First Semester,Parallel Computation,Exams,,,Final
+405,https://t.me/Q4K_Database/405,5549398282,OSAMA_MO7,2023-12-01 17:52:11.422370,2020,CS,Fourth Year,First Semester,Parallel Computation,Exams,,,Final
+406,https://t.me/Q4K_Database/406,1311186034,Mahmoudhd134,2023-12-01 22:11:39.246130,2024,CS,Fourth Year,First Semester,Parallel Computation,Lectures,Video,Lec2,
+410,https://t.me/Q4K_Database/410,1135869415,shrouk23,2023-12-02 21:41:24.104459,2024,IT,Fourth Year,First Semester,Network Security,Lectures,Summary,Lec1,
+411,https://t.me/Q4K_Database/411,1135869415,shrouk23,2023-12-02 21:43:19.988423,2024,IT,Fourth Year,First Semester,Network Security,Lectures,Summary,Lec2,
+413,https://t.me/Q4K_Database/413,1135869415,shrouk23,2023-12-02 22:08:14.077125,2024,IT,Fourth Year,First Semester,Network Analysis and Design,Lectures,Slide,Lec1,
+414,https://t.me/Q4K_Database/414,1135869415,shrouk23,2023-12-02 22:08:47.319641,2024,IT,Fourth Year,First Semester,Network Analysis and Design,Lectures,Slide,Lec2,
+415,https://t.me/Q4K_Database/415,1135869415,shrouk23,2023-12-02 22:08:47.558376,2024,IT,Fourth Year,First Semester,Network Analysis and Design,Lectures,Slide,L,
+416,https://t.me/Q4K_Database/416,1135869415,shrouk23,2023-12-02 22:08:47.746179,2024,IT,Fourth Year,First Semester,Network Analysis and Design,Lectures,Slide,e,
+417,https://t.me/Q4K_Database/417,1135869415,shrouk23,2023-12-02 22:09:41.067159,2024,IT,Fourth Year,First Semester,Network Analysis and Design,Lectures,Slide,Lec3,
+418,https://t.me/Q4K_Database/418,1135869415,shrouk23,2023-12-02 22:09:41.316423,2024,IT,Fourth Year,First Semester,Network Analysis and Design,Lectures,Slide,L,
+419,https://t.me/Q4K_Database/419,1135869415,shrouk23,2023-12-02 22:09:41.525839,2024,IT,Fourth Year,First Semester,Network Analysis and Design,Lectures,Slide,e,
+420,https://t.me/Q4K_Database/420,1135869415,shrouk23,2023-12-02 22:10:14.699831,2024,IT,Fourth Year,First Semester,Network Analysis and Design,Lectures,Slide,Lec4,
+421,https://t.me/Q4K_Database/421,1135869415,shrouk23,2023-12-02 22:10:39.773663,2024,IT,Fourth Year,First Semester,Network Analysis and Design,Lectures,Slide,Lec5,
+422,https://t.me/Q4K_Database/422,1135869415,shrouk23,2023-12-02 22:11:24.926967,2024,IT,Fourth Year,First Semester,Network Analysis and Design,Lectures,Slide,Lec6,
+423,https://t.me/Q4K_Database/423,1135869415,shrouk23,2023-12-02 22:12:20.877691,2024,IT,Fourth Year,First Semester,Network Analysis and Design,Lectures,Slide,Lec7,
+425,https://t.me/Q4K_Database/425,1135869415,shrouk23,2023-12-02 22:13:14.622512,2024,IT,Fourth Year,First Semester,Network Analysis and Design,Lectures,Slide,Lec9,
+426,https://t.me/Q4K_Database/426,1135869415,shrouk23,2023-12-02 22:13:41.059119,2024,IT,Fourth Year,First Semester,Network Analysis and Design,Lectures,Slide,Lec10,
+427,https://t.me/Q4K_Database/427,1135869415,shrouk23,2023-12-02 22:14:07.262770,2024,IT,Fourth Year,First Semester,Network Analysis and Design,Lectures,Slide,Lec11,
+428,https://t.me/Q4K_Database/428,1135869415,shrouk23,2023-12-02 22:14:41.859380,2024,IT,Fourth Year,First Semester,Network Analysis and Design,Lectures,Slide,Lec12,
+429,https://t.me/Q4K_Database/429,1135869415,shrouk23,2023-12-02 22:15:03.642586,2024,IT,Fourth Year,First Semester,Network Analysis and Design,Lectures,Slide,Lec13,
+430,https://t.me/Q4K_Database/430,1135869415,shrouk23,2023-12-02 22:18:40.978762,2024,IT,Fourth Year,First Semester,Network Analysis and Design,Sections,Slide,Lec1,
+431,https://t.me/Q4K_Database/431,1135869415,shrouk23,2023-12-02 22:18:41.272961,2024,IT,Fourth Year,First Semester,Network Analysis and Design,Sections,Slide,Lec2,
+432,https://t.me/Q4K_Database/432,1135869415,shrouk23,2023-12-02 22:18:41.463771,2024,IT,Fourth Year,First Semester,Network Analysis and Design,Sections,Slide,Lec3,
+433,https://t.me/Q4K_Database/433,1135869415,shrouk23,2023-12-02 22:18:41.686302,2024,IT,Fourth Year,First Semester,Network Analysis and Design,Sections,Slide,Lec4,
+434,https://t.me/Q4K_Database/434,1135869415,shrouk23,2023-12-02 22:18:41.943171,2024,IT,Fourth Year,First Semester,Network Analysis and Design,Sections,Slide,Lec5,
+435,https://t.me/Q4K_Database/435,1135869415,shrouk23,2023-12-02 22:21:26.564042,2024,IT,Fourth Year,First Semester,Network Analysis and Design,Lectures,Summary,Lec0,
+436,https://t.me/Q4K_Database/436,1135869415,shrouk23,2023-12-03 12:12:20.906162,2024,IT,Fourth Year,First Semester,Network Security,Exams,,,Practical
+471,https://t.me/Q4K_Database/471,1135869415,shrouk23,2023-12-21 17:29:30.772757,2024,IT,Fourth Year,First Semester,Network Security,Lectures,Summary,Lec4,None
